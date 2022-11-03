@@ -2,130 +2,130 @@
 
 Country οr territory | Contry top-level domain 
 --- | --- |
-Åland Islands | --- |
+Åland | .ax |
 Albania | .al |
-American Samoa | --- |
-Andorra | --- |
-Antarctica | --- |
-Argentina | --- |
-Australia | --- |
-Austria | --- |
-Bangladesh | --- |
-Belarus | --- |
-Belgium | --- |
-Bermuda | --- |
-Bhutan | --- |
-Bolivia | --- |
-Botswana | --- |
-Brazil | --- |
-British Indian Ocean Territory | --- |
-Bulgaria | --- |
-Cambodia | --- |
-Canada | --- |
-Chile | --- |
-China | --- |
-Christmas Island | --- |
-Cocos (Keeling) Islands | --- |
-Colombia | --- |
-Costa Rica | --- |
-Croatia | --- |
-Curaçao | --- |
-Czech Republic | --- |
-Denmark | --- |
-Dominican Republic | --- |
-Ecuador | --- |
-Egypt | --- |
-Estonia | --- |
-Eswatini (Swaziland) | --- |
-Falkland Islands | --- |
-Faroe Islands | --- |
-Finland | --- |
-France | --- |
-Germany | --- |
-Ghana | --- |
-Gibraltar | --- |
-Greece | --- |
-Greenland | --- |
-Guatemala | --- |
-Hong Kong | --- |
-Hungary | --- |
-Iceland | --- |
-India | --- |
-Indonesia | --- |
-Iraq | --- |
-Ireland | --- |
-Isle of Man | --- |
-Israel | --- |
-Italy | --- |
-Japan | --- |
-Jersey | --- |
-Jordan | --- |
-Kenya | --- |
-South Korea | --- |
-Kyrgyzstan | --- |
-Laos | --- |
-Latvia | --- |
-Lebanon | --- |
-Lesotho | --- |
-Liechtenstein | --- |
-Lithuania | --- |
-Luxembourg | --- |
-Mali* | --- |
-Macau | --- |
-Madagascar | --- |
-Malaysia | --- |
-Malta | --- |
-Martinique | --- |
-Mexico | --- |
-Monaco | --- |
-Mongolia | --- |
-Montenegro | --- |
-Nepal | --- |
-Netherlands | --- |
-New Zealand | --- |
-Nigeria | --- |
-North Macedonia | --- |
-Northern Mariana Islands | --- |
-Norway | --- |
-Pakistan | --- |
-Palestine | --- |
-Peru | --- |
-Philippines | --- |
-Pitcairn Islands | --- |
-Poland | --- |
-Portugal | --- |
-Puerto Rico | --- |
-Qatar | --- |
-Réunion | --- |
-Romania | --- |
-Russia | --- |
-Rwanda | --- |
-Saint Pierre and Miquelon | --- |
-San Marino | --- |
-Senegal | --- |
-Serbia | --- |
-Singapore | --- |
-Slovakia | --- |
-Slovenia | --- |
-South Africa | --- |
-South Georgia and the South Sandwich Islands | --- |
-Spain | --- |
-Sri Lanka | --- |
+American Samoa | .as |
+Andorra | .ad |
+Antarctica | .aq |
+Argentina | .ar |
+Australia | .au |
+Austria | .at |
+Bangladesh | .bd |
+Belarus | .by |
+Belgium | .be |
+Bermuda | .bm |
+Bhutan | .bt |
+Bolivia | .bo |
+Botswana | .bw |
+Brazil | .br |
+British Indian Ocean Territory | .io |
+Bulgaria | .bg |
+Cambodia | .kh |
+Canada | .ca |
+Chile | .cl |
+China | .cn |
+Christmas Island | .cx |
+Cocos (Keeling) Islands | .cc |
+Colombia | .co |
+Costa Rica | .cr |
+Croatia | .hr |
+Curaçao | .cw |
+Czech Republic | .cz |
+Denmark | .dk |
+Dominican Republic | .do |
+Ecuador | .ec |
+Egypt | .eg |
+Estonia | .ee |
+Eswatini (Swaziland) | .sz |
+Falkland Islands | .fk |
+Faroe Islands | .fo |
+Finland | .fi |
+France | .fr |
+Germany | .de |
+Ghana | .gh |
+Gibraltar | .gi |
+Greece | .gr |
+Greenland | .gl |
+Guatemala | .gt |
+Hong Kong | .hk |
+Hungary | .hu |
+Iceland | .is |
+India | .in |
+Indonesia | .id |
+Iraq | .iq |
+Ireland | .ie |
+Isle of Man | .im |
+Israel | .il |
+Italy | .it |
+Japan | .jp |
+Jersey | .je |
+Jordan | .jo |
+Kenya | .ke |
+South Korea | .kr |
+Kyrgyzstan | .kg |
+Laos | .la |
+Latvia | .lv |
+Lebanon | .lb |
+Lesotho | .ls |
+Liechtenstein | .li |
+Lithuania | .lt |
+Luxembourg | .lu |
+Mali* | .ml |
+Macau | .mo |
+Madagascar | .mg |
+Malaysia | .my |
+Malta | .mt |
+Martinique | .mq |
+Mexico | .mx |
+Monaco | .mc |
+Mongolia | .mn |
+Montenegro | .me |
+Nepal | .np |
+Netherlands | .nl |
+New Zealand | .nz |
+Nigeria | .ng |
+North Macedonia | .mk |
+Northern Mariana Islands | .mp |
+Norway | .no |
+Pakistan | .pk |
+Palestine | .ps |
+Peru | .pe |
+Philippines | .ph |
+Pitcairn Islands | .pn |
+Poland | .pl |
+Portugal | .pt |
+Puerto Rico | .pr |
+Qatar | .qa |
+Réunion | .re |
+Romania | .ro |
+Russia | .ru |
+Rwanda | .rw |
+Saint Pierre and Miquelon | .pm |
+San Marino | .sm |
+Senegal | .sn |
+Serbia | .rs |
+Singapore | .sg |
+Slovakia | .sk |
+Slovenia | .si |
+South Africa | .za |
+South Georgia and the South Sandwich Islands | .gs |
+Spain | .es |
+Sri Lanka | .lk |
 Svalbard | --- |
-Sweden | --- |
-Switzerland | --- |
-Taiwan | --- |
-Tanzania | --- |
-Thailand | --- |
-Tunisia | --- |
-Turkey | --- |
-Uganda | --- |
-Ukraine | --- |
-United Arab Emirates | --- |
-United Kingdom | --- |
-United States | --- |
+Sweden | .se |
+Switzerland | .ch |
+Taiwan | .tw |
+Tanzania | .tz |
+Thailand | .th |
+Tunisia | .tn |
+Turkey | .tr |
+Uganda | .ug |
+Ukraine | .ua |
+United Arab Emirates | .ae |
+United Kingdom | .uk |
+United States | .us |
 United States Minor Outlying Islands | --- |
-United States Virgin Islands | --- |
-Uruguay | --- |
-Vanuatu | --- |
-Vietnam | --- |
+United States Virgin Islands | .vi |
+Uruguay | .uy |
+Vanuatu | .vu |
+Vietnam | .vn |
