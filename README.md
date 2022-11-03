@@ -56,7 +56,7 @@ Iraq | .iq |
 Ireland | .ie |
 Isle of Man | .im |
 Israel | .il |
-[Italy](#Italy) | .it |
+[Italy](#italy) | .it |
 Japan | .jp |
 Jersey | .je |
 Jordan | .jo |
@@ -83,7 +83,7 @@ Montenegro | .me |
 Nepal | .np |
 Netherlands | .nl |
 New Zealand | .nz |
-Nigeria | .ng |
+[Nigeria](#nigeria) | .ng |
 North Macedonia | .mk |
 Northern Mariana Islands | .mp |
 Norway | .no |
@@ -153,6 +153,15 @@ Always a black tape on one of the roof bars.
 
 ![Italy - Telephone numbers](src/it001.jpg)
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
+
+## Nigeria
+
+- Escort
+
+Police escort with black or white car.  
+![Nigeria - Escort 1](src/ng001.jpg)
+![Nigeria - Escort 2](src/ng002.jpg)
+*source: [Google](https://earth.google.com/web)*
 
 ## United States
 
