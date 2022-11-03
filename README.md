@@ -1,6 +1,6 @@
 ## Official coverage by country οr territory with country code top-level domain
 
-Country οr territory | Contry top-level domain 
+Country οr territory (en) | Contry top-level domain 
 --- | --- |
 Åland | .ax |
 Albania | .al |
