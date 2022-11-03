@@ -135,5 +135,5 @@ Vietnam | .vn |
 ## Ghana
 
 - Google car
-
+Always a black tape on one of the roof bars
 ![Ghana001](src/ghana001.jpg)
