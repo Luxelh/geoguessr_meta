@@ -111,7 +111,7 @@ South Africa | .za |
 South Georgia and the South Sandwich Islands | .gs |
 Spain | .es |
 Sri Lanka | .lk |
-Svalbard | --- |
+Svalbard | *Unused* |
 Sweden | .se |
 Switzerland | .ch |
 Taiwan | .tw |
@@ -124,7 +124,7 @@ Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
 United States | .us |
-United States Minor Outlying Islands | --- |
+United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
 Vanuatu | .vu |
