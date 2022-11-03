@@ -134,7 +134,16 @@ Vietnam | .vn |
 
 ## Ghana
 
-- Google car
+- Google car :
 
-Always a black tape on one of the roof bars
-![Ghana001](src/ghana001.jpg)
+Always a black tape on one of the roof bars.
+![Ghana - Google car](src/gh001.jpg)
+
+## United States
+
+- Roads
+
+Primary Interstate Highway System :
+
+Odd numbers run N–S with numbers increasing from W to E and numbers run E–W with numbers increasing from S to N.
+![United States - Primary Interstate Highway System](src/us.jpg)
