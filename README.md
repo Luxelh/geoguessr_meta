@@ -132,4 +132,6 @@ Vietnam | .vn |
 
 ## Tips by country οr territory
 
-Ghana 
+# Ghana
+
+![Ghana001](src/ghana001.jpg)
