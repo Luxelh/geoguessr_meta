@@ -134,20 +134,20 @@ Vietnam | .vn |
 
 ## France
 
-**- Telephone numbers**  
+- Telephone numbers
 
 ![France - Telephone numbers](src/fr001.jpg)
 
 ## Ghana
 
-**- Google car :**  
+- Google car
 
 Always a black tape on one of the roof bars.  
 ![Ghana - Google car](src/gh001.jpg)
 
 ## United States
 
-**- Roads**  
+- Roads
 
 Primary Interstate Highway System :
 
