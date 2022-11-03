@@ -123,7 +123,7 @@ Uganda | .ug |
 Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
-[United States](United States) | .us |
+[United States](#United States) | .us |
 United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
