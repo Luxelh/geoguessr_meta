@@ -123,7 +123,7 @@ Uganda | .ug |
 Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
-[United States](#Ghana) | .us |
+[United States](#United States) | .us |
 United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
@@ -146,4 +146,4 @@ Always a black tape on one of the roof bars.
 Primary Interstate Highway System :
 
 Odd numbers run N–S with numbers increasing from W to E and numbers run E–W with numbers increasing from S to N.
-![United States - Primary Interstate Highway System](src/us.jpg)
+![United States - Primary Interstate Highway System](src/us001.jpg)
