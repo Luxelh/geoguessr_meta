@@ -40,7 +40,7 @@ Eswatini (Swaziland) | .sz |
 Falkland Islands | .fk |
 Faroe Islands | .fo |
 Finland | .fi |
-France | .fr |
+[France](#france) | .fr |
 Germany | .de |
 [Ghana](#ghana) | .gh |
 Gibraltar | .gi |
@@ -132,16 +132,22 @@ Vietnam | .vn |
 
 # Tips by country οr territory
 
+## France
+
+**- Telephone numbers**  
+
+![France - Telephone numbers](src/fr001.jpg)
+
 ## Ghana
 
-- Google car :
+**- Google car :**  
 
 Always a black tape on one of the roof bars.  
 ![Ghana - Google car](src/gh001.jpg)
 
 ## United States
 
-- Roads
+**- Roads**  
 
 Primary Interstate Highway System :
 
