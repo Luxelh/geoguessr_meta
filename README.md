@@ -42,7 +42,7 @@ Faroe Islands | .fo |
 Finland | .fi |
 France | .fr |
 Germany | .de |
-[Ghana](#Ghana) | .gh |
+[Ghana](#ghana) | .gh |
 Gibraltar | .gi |
 Greece | .gr |
 Greenland | .gl |
@@ -123,7 +123,7 @@ Uganda | .ug |
 Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
-[United States](#United) | .us |
+[United States](#united-states) | .us |
 United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
@@ -136,7 +136,7 @@ Vietnam | .vn |
 
 - Google car :
 
-Always a black tape on one of the roof bars.
+Always a black tape on one of the roof bars.  
 ![Ghana - Google car](src/gh001.jpg)
 
 ## United States
@@ -145,5 +145,5 @@ Always a black tape on one of the roof bars.
 
 Primary Interstate Highway System :
 
-Odd numbers run N–S with numbers increasing from W to E and numbers run E–W with numbers increasing from S to N.
+Odd numbers run N–S with numbers increasing from W to E and numbers run E–W with numbers increasing from S to N.  
 ![United States - Primary Interstate Highway System](src/us001.jpg)
