@@ -1,4 +1,4 @@
-## Official coverage by country οr territory with country code top-level domain
+## Official coverage by country οr territory
 
 Country οr territory (en) | Contry top-level domain 
 --- | --- |
@@ -129,3 +129,7 @@ United States Virgin Islands | .vi |
 Uruguay | .uy |
 Vanuatu | .vu |
 Vietnam | .vn |
+
+## Tips by country οr territory
+
+Ghana 
