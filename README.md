@@ -1,4 +1,4 @@
-## Official coverage by country οr territory
+# Official coverage by country οr territory
 
 Country οr territory (en) | Contry top-level domain 
 --- | --- |
@@ -42,7 +42,7 @@ Faroe Islands | .fo |
 Finland | .fi |
 France | .fr |
 Germany | .de |
-Ghana | .gh |
+[Ghana](#Ghana) | .gh |
 Gibraltar | .gi |
 Greece | .gr |
 Greenland | .gl |
@@ -130,8 +130,10 @@ Uruguay | .uy |
 Vanuatu | .vu |
 Vietnam | .vn |
 
-## Tips by country οr territory
+# Tips by country οr territory
 
-# Ghana
+## Ghana
+
+- Google car
 
 ![Ghana001](src/ghana001.jpg)
