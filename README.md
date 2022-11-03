@@ -56,7 +56,7 @@ Iraq | .iq |
 Ireland | .ie |
 Isle of Man | .im |
 Israel | .il |
-Italy | .it |
+[Italy](#Italy) | .it |
 Japan | .jp |
 Jersey | .je |
 Jordan | .jo |
@@ -137,7 +137,7 @@ Vietnam | .vn |
 - Telephone numbers
 
 ![France - Telephone numbers](src/fr001.jpg)
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Interstate_Highway_System)*
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_France)*
 
 ## Ghana
 
@@ -145,7 +145,14 @@ Vietnam | .vn |
 
 Always a black tape on one of the roof bars.  
 ![Ghana - Google car](src/gh001.jpg)
-*source: [Google](https://earth.google.com/web/)*
+*source: [Google](https://earth.google.com/web)*
+
+## Italy
+
+- Telephone numbers
+
+![Italy - Telephone numbers](src/it001.jpg)
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
 
 ## United States
 
