@@ -1,14 +1,14 @@
 # Summary
 
 * [Official coverage by country οr territory](#Official-coverage-by-country-οr-territory)
-   * Contry top-level domains
+   * [Contry top-level domains](#Contry-top-level-domains)
 * [Google car](#Google-car)
-   * Ecuador
-   * Ghana
-   * Kyrgyzstan
-   * Mongolia
-   * Senegal
-   * Uganda
+   * [Ecuador](#Ecuador)
+   * [Ghana](#Ghana)
+   * [Kyrgyzstan](#Kyrgyzstan)
+   * [Mongolia](#Mongolia)
+   * [Senegal](#Senegal)
+   * [Uganda](#Uganda)
 * [Environment](#environment)
    * [Police escort](#Police-escort)
    * [Cracks in the sky](#Cracks-in-the-sky)
