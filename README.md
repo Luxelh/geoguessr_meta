@@ -200,7 +200,7 @@ Always the same white car.
 
 ## Police escort
 
-**Nigeria** :
+**Nigeria** :  
 Very often a police escort with black or white car.  
 ![Nigeria - Environment 1](src/ng001.jpg)
 *source: [Google](https://earth.google.com/web)*
@@ -209,7 +209,7 @@ Very often a police escort with black or white car.
 
 ## Cracks in the sky
 
-**Senegal**, **Albania** or **Montenegro** :
+**Senegal**, **Albania** or **Montenegro** :  
 Sometimes cracks in the sky.  
 ![Senegal - Environment](src/sn003.jpg)
 *source: [Google](https://earth.google.com/web)*
