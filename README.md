@@ -162,64 +162,9 @@ Always roof bars or a pick up.
 ![Senegal - Google car 2](src/sn002.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-
-
-
-
-
-
-
-
-
-# Tips by country οr territory
-
-## France
-
-- Telephone numbers
-
-Divided into 5 areas.  
-![France - Telephone numbers](src/fr001.jpg)
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_France)*
-
-## Ghana
-
-- Google car
-
-Always a black tape on one of the roof bars.  
-![Ghana - Google car](src/gh001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Italy
-
-- Telephone numbers
-
-The number increases from N to S.  
-![Italy - Telephone numbers](src/it001.jpg)
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
-
-## Kyrgyzstan
-
-- Google car
-
-Always the same car.  
-
-![Kyrgyzstan - Google car](src/kg001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Mongolia
-
-- Google car
-
-![Mongolia - Google car 1](src/mn001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Mongolia - Google car 2](src/mn002.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Mongolia - Google car 3](src/mn003.jpg)
-*source: [Google](https://earth.google.com/web)*
+# Environment
 
 ## Nigeria
-
-- Environment
 
 Police escort with black or white car.  
 ![Nigeria - Environment 1](src/ng001.jpg)
@@ -229,25 +174,28 @@ Police escort with black or white car.
 
 ## Senegal
 
-- Google car
-
-Always roof bars or a pick up.  
-
-![Senegal - Google car 1](src/sn001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Senegal - Google car 2](src/sn002.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-- Environment
-
 Sometimes cracks in the sky.  
 
 ![Senegal - Environment](src/sn003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-## United States
+# Telephone numbers
 
-- Roads
+## France
+
+Divided into 5 areas.  
+![France - Telephone numbers](src/fr001.jpg)
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_France)*
+
+## Italy
+
+The number increases from N to S.  
+![Italy - Telephone numbers](src/it001.jpg)
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
+
+# Roads
+
+## United States
 
 Primary Interstate Highway System :
 
