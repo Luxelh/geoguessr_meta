@@ -208,7 +208,7 @@ Always the same white car.
 
 ## Cracks in the sky
 
-**Senegal**, **Albania** or **Montenegro** : Sometimes cracks in the sky.  
+**<ins>Senegal</ins>**, **<ins>Albania</ins>** or **<ins>Montenegro</ins>** : Sometimes cracks in the sky.  
 ![Senegal - Environment](src/sn003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
