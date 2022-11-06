@@ -1,7 +1,7 @@
 # Summary
 
-* [Official coverage by country οr territory](#Officialcoveragebycountryοrterritory)
-`* Contry top-level domains`
+* [Official coverage by country οr territory](#Official-coverage-by-country-οr-territory)
+  * [Contry top-level domains](#Contry-top-level-domains)
 * Google car4
 * Environment
 * Roads
