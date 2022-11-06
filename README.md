@@ -1,10 +1,20 @@
 # Summary
 
 * [Official coverage by country οr territory](#Official-coverage-by-country-οr-territory)
-  * [Contry top-level domains](#Contry-top-level-domains)
-* Google car4
-* Environment
-* Roads
+ * [Contry top-level domains](#Contry-top-level-domains)
+* [Google car](#Google-car)
+ * [Ghana](#Ghana)
+ * [Kyrgyzstan](#Kyrgyzstan)
+ * [Mongolia](#Mongolia)
+ * [Senegal](#Senegal)
+* [Environment](#environment)
+ * [Nigeria](#Nigeria)
+ * [Senegal](#Senegal)
+* [Telephone numbers](#Telephone-numbers) 
+ * [France](#France)
+ * [Italy](#Italy)
+* [Roads](#roads)
+ * [United States](#United-States)
 
 # Official coverage by country οr territory
 
