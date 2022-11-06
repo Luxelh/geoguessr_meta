@@ -1,4 +1,14 @@
+# Summary
+
+* [Official coverage by country οr territory](#Officialcoveragebycountryοrterritory)
+`* Contry top-level domains`
+* Google car4
+* Environment
+* Roads
+
 # Official coverage by country οr territory
+
+## Contry top-level domains
 
 Country οr territory (en) | Contry top-level domain 
 --- | --- |
@@ -40,9 +50,9 @@ Eswatini (Swaziland) | .sz |
 Falkland Islands | .fk |
 Faroe Islands | .fo |
 Finland | .fi |
-[France](#france) | .fr |
+France | .fr |
 Germany | .de |
-[Ghana](#ghana) | .gh |
+Ghana | .gh |
 Gibraltar | .gi |
 Greece | .gr |
 Greenland | .gl |
@@ -56,13 +66,13 @@ Iraq | .iq |
 Ireland | .ie |
 Isle of Man | .im |
 Israel | .il |
-[Italy](#italy) | .it |
+Italy | .it |
 Japan | .jp |
 Jersey | .je |
 Jordan | .jo |
 Kenya | .ke |
 South Korea | .kr |
-[Kyrgyzstan](#kyrgyzstan) | .kg |
+Kyrgyzstan | .kg |
 Laos | .la |
 Latvia | .lv |
 Lebanon | .lb |
@@ -78,12 +88,12 @@ Malta | .mt |
 Martinique | .mq |
 Mexico | .mx |
 Monaco | .mc |
-[Mongolia](#mongolia) | .mn |
+Mongolia | .mn |
 Montenegro | .me |
 Nepal | .np |
 Netherlands | .nl |
 New Zealand | .nz |
-[Nigeria](#nigeria) | .ng |
+Nigeria | .ng |
 North Macedonia | .mk |
 Northern Mariana Islands | .mp |
 Norway | .no |
@@ -102,7 +112,7 @@ Russia | .ru |
 Rwanda | .rw |
 Saint Pierre and Miquelon | .pm |
 San Marino | .sm |
-[Senegal](#senegal) | .sn |
+Senegal | .sn |
 Serbia | .rs |
 Singapore | .sg |
 Slovakia | .sk |
@@ -123,7 +133,7 @@ Uganda | .ug |
 Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
-[United States](#united-states) | .us |
+United States | .us |
 United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
