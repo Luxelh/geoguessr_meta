@@ -1,22 +1,22 @@
 # Summary
 
 * [Official coverage by country οr territory](#Official-coverage-by-country-οr-territory)
-   * [Contry top-level domains](#Contry-top-level-domains)
+   * Contry top-level domains
 * [Google car](#Google-car)
-   * [Ecuador](#Ecuador)
-   * [Ghana](#Ghana)
-   * [Kyrgyzstan](#Kyrgyzstan)
-   * [Mongolia](#Mongolia)
-   * [Senegal](#Senegal)
-   * [Uganda](#Uganda)
+   * Ecuador
+   * Ghana
+   * Kyrgyzstan
+   * Mongolia
+   * Senegal
+   * Uganda
 * [Environment](#environment)
-   * [Nigeria](#Nigeria)
-   * [Senegal](#Senegal)
+   * Nigeria
+   * Senegal
 * [Telephone numbers](#Telephone-numbers) 
-   * [France](#France)
-   * [Italy](#Italy)
+   * France
+   * Italy
 * [Roads](#roads)
-   * [United States](#United-States)
+   * United States
 
 # Official coverage by country οr territory
 
