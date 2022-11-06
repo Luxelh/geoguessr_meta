@@ -8,6 +8,7 @@
    * [Kyrgyzstan](#Kyrgyzstan)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
+   * [Uganda](#Uganda)
 * [Environment](#environment)
    * [Nigeria](#Nigeria)
    * [Senegal](#Senegal)
@@ -187,6 +188,12 @@ Always roof bars or a pick up.
 ![Senegal - Google car 1](src/sn001.jpg)
 *source: [Google](https://earth.google.com/web)*
 ![Senegal - Google car 2](src/sn002.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Uganda
+
+Always the same white car.  
+![Uganda - Google car](src/ug001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 # Environment
