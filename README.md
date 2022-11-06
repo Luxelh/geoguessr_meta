@@ -102,7 +102,7 @@ Russia | .ru |
 Rwanda | .rw |
 Saint Pierre and Miquelon | .pm |
 San Marino | .sm |
-Senegal | .sn |
+[Senegal](#senegal) | .sn |
 Serbia | .rs |
 Singapore | .sg |
 Slovakia | .sk |
@@ -184,6 +184,24 @@ Police escort with black or white car.
 ![Nigeria - Escort 1](src/ng001.jpg)
 *source: [Google](https://earth.google.com/web)*
 ![Nigeria - Escort 2](src/ng002.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Senegal
+
+- Google car
+
+Always roof bars or a pick up.  
+
+![Senegal - Google car 1](src/sn001.jpg)
+*source: [Google](https://earth.google.com/web)*
+![Senegal - Google car 2](src/sn002.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+- Environment
+
+Sometimes cracks in the sky.  
+
+![Senegal - Environment](src/sn003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ## United States
