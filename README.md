@@ -10,8 +10,8 @@
    * Senegal
    * Uganda
 * [Environment](#environment)
-   * Nigeria
-   * Senegal
+   * [Police escort](#Police-escort)
+   * [Cracks in the sky](#Cracks-in-the-sky)
 * [Telephone numbers](#Telephone-numbers) 
    * France
    * Italy
@@ -198,18 +198,17 @@ Always the same white car.
 
 # Environment
 
-## Nigeria
+## Police escort
 
-Police escort with black or white car.  
+*Nigeria* : Very often a police escort with black or white car.  
 ![Nigeria - Environment 1](src/ng001.jpg)
 *source: [Google](https://earth.google.com/web)*
 ![Nigeria - Environment 2](src/ng002.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-## Senegal
+## Cracks in the sky
 
-Sometimes cracks in the sky.  
-
+*Senegal*, *Albania* or *Montenegro* : Sometimes cracks in the sky.  
 ![Senegal - Environment](src/sn003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
