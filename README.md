@@ -130,6 +130,43 @@ Uruguay | .uy |
 Vanuatu | .vu |
 Vietnam | .vn |
 
+# Google car
+
+## Ghana
+
+Always a black tape on one of the roof bars.  
+![Ghana - Google car](src/gh001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Kyrgyzstan
+
+Always the same car.  
+![Kyrgyzstan - Google car](src/kg001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Mongolia
+
+![Mongolia - Google car 1](src/mn001.jpg)
+*source: [Google](https://earth.google.com/web)*
+![Mongolia - Google car 2](src/mn002.jpg)
+*source: [Google](https://earth.google.com/web)*
+![Mongolia - Google car 3](src/mn003.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Senegal
+
+Always roof bars or a pick up.  
+![Senegal - Google car 1](src/sn001.jpg)
+*source: [Google](https://earth.google.com/web)*
+![Senegal - Google car 2](src/sn002.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+
+
+
+
+
+
 # Tips by country οr territory
 
 ## France
@@ -178,12 +215,12 @@ Always the same car.
 
 ## Nigeria
 
-- Escort
+- Environment
 
 Police escort with black or white car.  
-![Nigeria - Escort 1](src/ng001.jpg)
+![Nigeria - Environment 1](src/ng001.jpg)
 *source: [Google](https://earth.google.com/web)*
-![Nigeria - Escort 2](src/ng002.jpg)
+![Nigeria - Environment 2](src/ng002.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ## Senegal
