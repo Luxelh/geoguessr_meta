@@ -62,7 +62,7 @@ Jersey | .je |
 Jordan | .jo |
 Kenya | .ke |
 South Korea | .kr |
-Kyrgyzstan | .kg |
+[Kyrgyzstan](#kyrgyzstan) | .kg |
 Laos | .la |
 Latvia | .lv |
 Lebanon | .lb |
@@ -156,11 +156,18 @@ The number increases from N to S.
 ![Italy - Telephone numbers](src/it001.jpg)
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
 
-## Mongolia
+## Kyrgyzstan
 
 - Google car
 
+Always the same car.  
 
+![Kyrgyzstan - Google car](src/kg001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Mongolia
+
+- Google car
 
 ![Mongolia - Google car 1](src/mn001.jpg)
 *source: [Google](https://earth.google.com/web)*
