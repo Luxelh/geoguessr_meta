@@ -146,6 +146,7 @@ Always the same car.
 
 ## Mongolia
 
+Always snorkel or bags on the roof.  
 ![Mongolia - Google car 1](src/mn001.jpg)
 *source: [Google](https://earth.google.com/web)*
 ![Mongolia - Google car 2](src/mn002.jpg)
@@ -160,6 +161,9 @@ Always roof bars or a pick up.
 *source: [Google](https://earth.google.com/web)*
 ![Senegal - Google car 2](src/sn002.jpg)
 *source: [Google](https://earth.google.com/web)*
+
+
+
 
 
 
