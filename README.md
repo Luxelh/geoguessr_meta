@@ -7,7 +7,7 @@
    * [Ghana](#Ghana)
    * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
-   * [Lesotho/ Eswatini](#Lesotho/-Eswatini)
+   * [Lesotho/ Eswatini](#Lesotho-Eswatini)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
    * [Uganda](#Uganda)
