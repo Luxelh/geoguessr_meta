@@ -4,10 +4,10 @@
    * [Contry top-level domains](#Contry-top-level-domains)
 * [Google car](#Google-car)
    * [Ecuador](#Ecuador)
+   * [Eswatini/ Lesotho/ South Africa](#Eswatini-Lesotho-South Africa)
    * [Ghana](#Ghana)
    * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
-   * [Lesotho/ Eswatini](#Lesotho-Eswatini)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
    * [Uganda](#Uganda)
@@ -162,6 +162,12 @@ Sometimes an antenna.
 ![Ecuador - Google car](src/ec001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
+## Eswatini/ Lesotho/ South Africa
+
+White car very often visible.  
+![Lesotho - Google car](src/ls001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
 ## Ghana
 
 Always a black tape on one of the roof bars.  
@@ -178,12 +184,6 @@ Always an long antenna.
 
 Always the same car.  
 ![Kyrgyzstan - Google car](src/kg001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Lesotho/ Eswatini
-
-White car very often visible.  
-![Lesotho - Google car](src/ls001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ## Mongolia
