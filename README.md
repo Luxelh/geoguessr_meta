@@ -5,6 +5,7 @@
 * [Google car](#Google-car)
    * [Ecuador](#Ecuador)
    * [Ghana](#Ghana)
+   * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
@@ -156,7 +157,7 @@ Vietnam | .vn |
 
 ## Ecuador
 
-Sometimes an antenna is visible.  
+Sometimes an antenna.  
 ![Ecuador - Google car](src/ec001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
@@ -164,6 +165,12 @@ Sometimes an antenna is visible.
 
 Always a black tape on one of the roof bars.  
 ![Ghana - Google car](src/gh001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Iceland
+
+Always an antenna.  
+![Iceland - Google car](src/is001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ## Kyrgyzstan
