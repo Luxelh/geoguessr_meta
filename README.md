@@ -169,7 +169,7 @@ Always a black tape on one of the roof bars.
 
 ## Iceland
 
-Always an antenna.  
+Always an long antenna.  
 ![Iceland - Google car](src/is001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
