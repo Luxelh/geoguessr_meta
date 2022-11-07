@@ -7,6 +7,7 @@
    * [Ghana](#Ghana)
    * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
+   * [Lesotho](#Lesotho)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
    * [Uganda](#Uganda)
@@ -177,6 +178,12 @@ Always an long antenna.
 
 Always the same car.  
 ![Kyrgyzstan - Google car](src/kg001.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+## Lesotho
+
+White car very often visible.  
+![Lesotho - Google car](src/ls001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ## Mongolia
