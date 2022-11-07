@@ -7,7 +7,7 @@
    * [Ghana](#Ghana)
    * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
-   * [Lesotho](#Lesotho)
+   * [Lesotho/ Eswatini](#Lesotho/-Eswatini)
    * [Mongolia](#Mongolia)
    * [Senegal](#Senegal)
    * [Uganda](#Uganda)
@@ -180,7 +180,7 @@ Always the same car.
 ![Kyrgyzstan - Google car](src/kg001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-## Lesotho
+## Lesotho/ Eswatini
 
 White car very often visible.  
 ![Lesotho - Google car](src/ls001.jpg)
