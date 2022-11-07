@@ -4,7 +4,7 @@
    * [Contry top-level domains](#Contry-top-level-domains)
 * [Google car](#Google-car)
    * [Ecuador](#Ecuador)
-   * [Eswatini/ Lesotho/ South Africa](#Eswatini-Lesotho-South Africa)
+   * [Eswatini/ Lesotho/ South Africa](#Eswatini-Lesotho-South-Africa)
    * [Ghana](#Ghana)
    * [Iceland](#Iceland)
    * [Kyrgyzstan](#Kyrgyzstan)
