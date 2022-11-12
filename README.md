@@ -238,7 +238,7 @@ Divided into 5 areas.
 ## Italy
 
 The number increases from N to S.  
-![Italy - Telephone numbers](src/it001.jpg)
+![Italy - Telephone numbers](src/it001.jpg | width=360)
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
 
 # Roads
