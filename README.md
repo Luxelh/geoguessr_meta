@@ -18,6 +18,7 @@
    * France
    * Italy
 * [Roads](#roads)
+   * Iceland
    * United States
 
 # Official coverage by country οr territory
@@ -241,6 +242,14 @@ The number increases from N to S.
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
 
 # Roads
+
+## Iceland
+
+National Highway System :
+
+Eight numbering zones divide the island. Each dialing zone has a number which determines which is the first digit of the number. 1 is reserved for the ring road and the others increase clockwise from southeast to east.  
+![Island - National Highway System](src/is001.jpg)
+*source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_roads_in_Iceland)*
 
 ## United States
 
