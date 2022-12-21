@@ -1,5 +1,11 @@
 # Senegal
 
+## Camera
+
+Sometimes cracks in the sky.  
+![Senegal - Environment](src/sn003.jpg)
+*source: [Google](https://earth.google.com/web)*
+
 ## Google car
 
 Always roof bars or a pick up.  
