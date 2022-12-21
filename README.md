@@ -24,7 +24,7 @@ Cambodia | .kh |
 Canada | .ca |
 Chile | .cl |
 China | .cn |
-Christmas Island | .cx |
+[Christmas Island](Christmas_Island.md) | .cx |
 Cocos (Keeling) Islands | .cc |
 Colombia | .co |
 Costa Rica | .cr |
