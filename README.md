@@ -90,7 +90,7 @@ Norway | .no |
 Pakistan | .pk |
 Palestine | .ps |
 Peru | .pe |
-Philippines | .ph |
+[Philippines](Philippines.md) | .ph |
 Pitcairn Islands | .pn |
 Poland | .pl |
 Portugal | .pt |
