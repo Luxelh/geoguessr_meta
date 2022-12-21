@@ -93,7 +93,7 @@ Peru | .pe |
 [Philippines](Philippines.md) | .ph |
 Pitcairn Islands | .pn |
 Poland | .pl |
-Portugal | .pt |
+[Portugal](Portugal.md) | .pt |
 Puerto Rico | .pr |
 Qatar | .qa |
 Réunion | .re |
