@@ -127,7 +127,7 @@ Russia | .ru |
 Rwanda | .rw |
 Saint Pierre and Miquelon | .pm |
 San Marino | .sm |
-Senegal | .sn |
+[Senegal](Senegal.md) | .sn |
 Serbia | .rs |
 Singapore | .sg |
 Slovakia | .sk |
@@ -154,107 +154,3 @@ United States Virgin Islands | .vi |
 Uruguay | .uy |
 Vanuatu | .vu |
 Vietnam | .vn |
-
-# Google car
-
-## Ecuador
-
-Sometimes an antenna.  
-![Ecuador - Google car](src/ec001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Eswatini/ Lesotho/ South Africa
-
-White car very often visible.  
-![Lesotho - Google car](src/ls001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Ghana
-
-Always a black tape on one of the roof bars.  
-![Ghana - Google car](src/gh001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Iceland
-
-Always an long antenna.  
-![Iceland - Google car](src/is001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Kyrgyzstan
-
-Always the same car.  
-![Kyrgyzstan - Google car](src/kg001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Mongolia
-
-Always snorkel or bags on the roof.  
-![Mongolia - Google car 1](src/mn001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Mongolia - Google car 2](src/mn002.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Mongolia - Google car 3](src/mn003.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Senegal
-
-Always roof bars or a pick up.  
-![Senegal - Google car 1](src/sn001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Senegal - Google car 2](src/sn002.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Uganda
-
-Always the same white car.  
-![Uganda - Google car](src/ug001.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-# Environment
-
-## Police escort
-
-**<ins>Nigeria</ins>** : Very often a police escort with black or white car.  
-![Nigeria - Environment 1](src/ng001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Nigeria - Environment 2](src/ng002.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-## Cracks in the sky
-
-**<ins>Senegal</ins>**, **<ins>Albania</ins>** or **<ins>Montenegro</ins>** : Sometimes cracks in the sky.  
-![Senegal - Environment](src/sn003.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-# Telephone numbers
-
-## France
-
-Divided into 5 areas.  
-![France - Telephone numbers](src/fr001.jpg)
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_France)*
-
-## Italy
-
-The number increases from N to S.  
-![Italy - Telephone numbers](src/it001.jpg)
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_Italy)*
-
-# Roads
-
-## Iceland
-
-National Highway System :
-
-Eight numbering zones divide the island. Each dialing zone has a number which determines which is the first digit of the number. 1 is reserved for the ring road and the others increase clockwise from southeast to east.  
-<img src="src/is002.jpg" alt="Island - National Highway System" width="720">
-*source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_roads_in_Iceland)*
-
-## United States
-
-Primary Interstate Highway System :
-
-Odd numbers run N–S with numbers increasing from W to E and numbers run E–W with numbers increasing from S to N.  
-<img src="src/us002.jpg" alt="United States - Primary Interstate Highway System" width="720">
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Interstate_Highway_System)*
