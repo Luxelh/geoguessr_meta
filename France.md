@@ -2,7 +2,7 @@
 
 ## Electric poles
 
-Blue squares on poles in the countryside.
+Blue squares on poles in the countryside.  
 ![France - Electric poles](src/fr002.jpg)
 *source: [Google](https://earth.google.com/web)*
 
