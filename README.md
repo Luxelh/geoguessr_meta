@@ -1,29 +1,4 @@
-# Summary
-
-* [Official coverage by country οr territory](#Official-coverage-by-country-οr-territory)
-   * [Contry top-level domains](#Contry-top-level-domains)
-* [Google car](#Google-car)
-   * [Ecuador](#Ecuador)
-   * [Eswatini/ Lesotho/ South Africa](#Eswatini-Lesotho-South-Africa)
-   * [Ghana](#Ghana)
-   * [Iceland](#Iceland)
-   * [Kyrgyzstan](#Kyrgyzstan)
-   * [Mongolia](#Mongolia)
-   * [Senegal](#Senegal)
-   * [Uganda](#Uganda)
-* [Environment](#environment)
-   * [Police escort](#Police-escort)
-   * [Cracks in the sky](#Cracks-in-the-sky)
-* [Telephone numbers](#Telephone-numbers) 
-   * France
-   * Italy
-* [Roads](#roads)
-   * Iceland
-   * United States
-
 # Official coverage by country οr territory
-
-## Contry top-level domains
 
 Country οr territory (en) | Contry top-level domain 
 --- | --- |
@@ -58,40 +33,40 @@ Curaçao | .cw |
 Czech Republic | .cz |
 Denmark | .dk |
 Dominican Republic | .do |
-Ecuador | .ec |
+[Ecuador](Ecuador.md) | .ec |
 Egypt | .eg |
 Estonia | .ee |
 Eswatini (Swaziland) | .sz |
 Falkland Islands | .fk |
 Faroe Islands | .fo |
 Finland | .fi |
-France | .fr |
+[France](France.md) | .fr |
 Germany | .de |
-Ghana | .gh |
+[Ghana](Ghana.md) | .gh |
 Gibraltar | .gi |
 Greece | .gr |
 Greenland | .gl |
 Guatemala | .gt |
 Hong Kong | .hk |
 Hungary | .hu |
-Iceland | .is |
+[Iceland](Iceland.md) | .is |
 India | .in |
 Indonesia | .id |
 Iraq | .iq |
 Ireland | .ie |
 Isle of Man | .im |
 Israel | .il |
-Italy | .it |
+[Italy](Italy.md) | .it |
 Japan | .jp |
 Jersey | .je |
 Jordan | .jo |
 Kenya | .ke |
 South Korea | .kr |
-Kyrgyzstan | .kg |
+[Kyrgyzstan](Kyrgyzstan.md) | .kg |
 Laos | .la |
 Latvia | .lv |
 Lebanon | .lb |
-Lesotho | .ls |
+[Lesotho](Lesotho.md) | .ls |
 Liechtenstein | .li |
 Lithuania | .lt |
 Luxembourg | .lu |
@@ -103,12 +78,12 @@ Malta | .mt |
 Martinique | .mq |
 Mexico | .mx |
 Monaco | .mc |
-Mongolia | .mn |
+[Mongolia](Mongolia.md) | .mn |
 Montenegro | .me |
 Nepal | .np |
 Netherlands | .nl |
 New Zealand | .nz |
-Nigeria | .ng |
+[Nigeria](Nigeria.md) | .ng |
 North Macedonia | .mk |
 Northern Mariana Islands | .mp |
 Norway | .no |
@@ -144,11 +119,11 @@ Tanzania | .tz |
 Thailand | .th |
 Tunisia | .tn |
 Turkey | .tr |
-Uganda | .ug |
+[Uganda](Uganda.md) | .ug |
 Ukraine | .ua |
 United Arab Emirates | .ae |
 United Kingdom | .uk |
-United States | .us |
+[United States](United_States.md) | .us |
 United States Minor Outlying Islands | *Unused* |
 United States Virgin Islands | .vi |
 Uruguay | .uy |
