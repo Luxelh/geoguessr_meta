@@ -95,7 +95,7 @@ Pitcairn Islands | .pn |
 Poland | .pl |
 [Portugal](Portugal.md) | .pt |
 Puerto Rico | .pr |
-Qatar | .qa |
+[Qatar](Qatar.md) | .qa |
 Réunion | .re |
 Romania | .ro |
 Russia | .ru |
