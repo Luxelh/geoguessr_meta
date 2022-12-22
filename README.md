@@ -74,7 +74,7 @@ Mali* | .ml |
 Macau | .mo |
 Madagascar | .mg |
 Malaysia | .my |
-Malta | .mt |
+[Malta](Malta.md) | .mt |
 Martinique | .mq |
 Mexico | .mx |
 Monaco | .mc |
