@@ -1,7 +1,11 @@
-# Christmas Island
+# Christmas Island (Australia)
+
+EN | FR | English | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Christmas Island | Île Christmas | Christmas Island | .cx | Left
 
 ## Google car
 
-Always this car on land.  
+L'arrière de la voiture est toujours visible.  
 ![Christmas Island - Google car](src/cx001.jpg)
 *source: [Google](https://earth.google.com/web)*
