@@ -14,7 +14,7 @@ La voiture est un pick up blanc similaire à celui du Sénégal mais avec une an
 ![Qatar - Google car](src/qa001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-## Paysage
+## Paysages
 
 ### Villes
 
