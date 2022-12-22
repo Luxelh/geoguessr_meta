@@ -19,7 +19,7 @@ La voiture est un pick up blanc similaire à celui du Sénégal mais avec une an
 ### Villes
 
 On trouve des grattes ciels au centre de Doha, proche de la côte.  
-![Qatar - Cities](src/qa003.jpg)
+![Qatar - Cities](src/qa006.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 En dehors, les bâtiments sont très reconnaissables et l'environnement est très plat et sableux.  
