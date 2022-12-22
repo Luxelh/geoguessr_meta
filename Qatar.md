@@ -18,16 +18,16 @@ La voiture est un pick up blanc similaire à celui du Sénégal mais avec une an
 
 ### Villes
 
-Les bâtiments sont très reconnaissables et l'environnement est très plat et sableux.  
+On trouve des grattes ciels au centre de Doha, proche de la côte.  
+![Qatar - Cities](src/qa003.jpg)
+*source: [Google](https://earth.google.com/web)*
+
+En dehors, les bâtiments sont très reconnaissables et l'environnement est très plat et sableux.  
 ![Qatar - Cities](src/qa002.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 Les trottoirs sont souvent peints en noir et blanc.  
 ![Qatar - Cities](src/qa004.jpg)
-*source: [Google](https://earth.google.com/web)*
-
-On peut aussi trouver certains arbres de ce type.  
-![Qatar - Cities](src/qa003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
 ### Campagnes
