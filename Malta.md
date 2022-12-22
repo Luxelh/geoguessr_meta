@@ -11,7 +11,7 @@ Possibilité de croiser 2 types de plaques, les plaques européennes classiques,
 ![Malta - License plate](src/mt001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-## Paysage
+## Paysages
 
 ### Villes
 
