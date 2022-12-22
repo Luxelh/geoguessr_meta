@@ -29,7 +29,7 @@ Cocos (Keeling) Islands | .cc |
 Colombia | .co |
 Costa Rica | .cr |
 Croatia | .hr |
-Curaçao | .cw |
+[Curaçao](Curacao.md) | .cw |
 Czech Republic | .cz |
 Denmark | .dk |
 Dominican Republic | .do |
