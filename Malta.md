@@ -1,8 +1,8 @@
 # Malta
 
-EN | FR | Maltese | Contry top-level domain
---- | --- | --- | ---
-Malta | Malte | Malta | .mt
+EN | FR | Maltese | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Malta | Malte | Malta | .mt | Left
 
 ## Plaques d'immatriculations
 
