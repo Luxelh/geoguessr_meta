@@ -1,4 +1,4 @@
-# Malta
+# Curaçao
 
 EN | FR | Papiamento | Contry top-level domain | Driving side
 --- | --- | --- | --- | ---
