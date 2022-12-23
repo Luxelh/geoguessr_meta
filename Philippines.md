@@ -1,7 +1,11 @@
 # Philippines
 
-## Roads
+EN | FR | Filipino | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Philippines | Philippines | Pilipinas | .ph | Right
 
-The roads are made of large rectangular concrete blocks.  
-![Philippines - Roads](src/ph001.jpg)
+## Routes
+
+Les routes sont très souvent faites de gros blocs de béton.  
+<img src="src/ph001.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
