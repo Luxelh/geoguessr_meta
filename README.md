@@ -69,7 +69,7 @@ Lebanon | --- | .lb |
 [Lesotho](Lesotho.md) | Lesotho | .ls |
 Liechtenstein | --- | .li |
 Lithuania | --- | .lt |
-Luxembourg | --- | .lu |
+[Luxembourg](Luxembourg.md) | Luxembourg | .lu |
 Mali* | --- | .ml |
 Macau | --- | .mo |
 Madagascar | --- | .mg |
