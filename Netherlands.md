@@ -7,6 +7,6 @@ Netherlands | Pays-Bas | Nederland | .nl | Right
 ## Plaques d'immatriculations
 
 Plaques européennes jaunes à l'avant et l'arrière.   
-![Netherlands - License plate](src/nl001.jpg)
-![Netherlands - License plate](src/nl002.jpg)
+<img src="src/nl001.jpg" width="640">
+<img src="src/nl002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
