@@ -13,7 +13,7 @@ Austria | --- | .at |
 Bangladesh | --- | .bd |
 Belarus | --- | .by |
 Belgium | --- | .be |
-Bermuda | --- | .bm |
+[Bermuda](Bermuda.md) | Bermudes | .bm |
 Bhutan | --- | .bt |
 Bolivia | --- | .bo |
 Botswana | --- | .bw |
