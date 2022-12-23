@@ -24,49 +24,49 @@ Cambodia | --- | .kh |
 Canada | --- | .ca |
 Chile | --- | .cl |
 China | --- | .cn |
-[Christmas Island](Christmas_Island.md) | --- | .cx |
+[Christmas Island](Christmas_Island.md) | Île Christmas | .cx |
 Cocos (Keeling) Islands | --- | .cc |
 Colombia | --- | .co |
 Costa Rica | --- | .cr |
 Croatia | --- | .hr |
-[Curaçao](Curacao.md) | --- | .cw |
+[Curaçao](Curacao.md) | Curaçao | .cw |
 Czech Republic | --- | .cz |
 Denmark | --- | .dk |
 Dominican Republic | --- | .do |
-[Ecuador](Ecuador.md) | --- | .ec |
+[Ecuador](Ecuador.md) | Équateur | .ec |
 Egypt | --- | .eg |
 Estonia | --- | .ee |
 Eswatini (Swaziland) | --- | .sz |
 Falkland Islands | --- | .fk |
 Faroe Islands | --- | .fo |
 Finland | --- | .fi |
-[France](France.md) | --- | .fr |
+[France](France.md) | France | .fr |
 Germany | --- | .de |
-[Ghana](Ghana.md) | --- | .gh |
+[Ghana](Ghana.md) | Ghana | .gh |
 Gibraltar | --- | .gi |
 Greece | --- | .gr |
 Greenland | --- | .gl |
 Guatemala | --- | .gt |
 Hong Kong | --- | .hk |
 Hungary | --- | .hu |
-[Iceland](Iceland.md) | --- | .is |
+[Iceland](Iceland.md) | Islande | .is |
 India | --- | .in |
 Indonesia | --- | .id |
 Iraq | --- | .iq |
 Ireland | --- | .ie |
 Isle of Man | --- | .im |
 Israel | --- | .il |
-[Italy](Italy.md) | --- | .it |
+[Italy](Italy.md) | Italie | .it |
 Japan | --- | .jp |
 Jersey | --- | .je |
 Jordan | --- | .jo |
 Kenya | --- | .ke |
 South Korea | --- | .kr |
-[Kyrgyzstan](Kyrgyzstan.md) | --- | .kg |
+[Kyrgyzstan](Kyrgyzstan.md) | Kirghizistan | .kg |
 Laos | --- | .la |
 Latvia | --- | .lv |
 Lebanon | --- | .lb |
-[Lesotho](Lesotho.md) | --- | .ls |
+[Lesotho](Lesotho.md) | Lesotho | .ls |
 Liechtenstein | --- | .li |
 Lithuania | --- | .lt |
 Luxembourg | --- | .lu |
@@ -74,35 +74,35 @@ Mali* | --- | .ml |
 Macau | --- | .mo |
 Madagascar | --- | .mg |
 Malaysia | --- | .my |
-[Malta](Malta.md) | --- | .mt |
+[Malta](Malta.md) | Malte | .mt |
 Martinique | --- | .mq |
 Mexico | --- | .mx |
 Monaco | --- | .mc |
-[Mongolia](Mongolia.md) | --- | .mn |
+[Mongolia](Mongolia.md) | Mongolie | .mn |
 Montenegro | --- | .me |
 Nepal | --- | .np |
-[Netherlands](Netherlands.md) | --- | .nl |
+[Netherlands](Netherlands.md) | Pays-Bas | .nl |
 New Zealand | --- | .nz |
-[Nigeria](Nigeria.md) | --- | .ng |
+[Nigeria](Nigeria.md) | Nigeria | .ng |
 North Macedonia | --- | .mk |
 Northern Mariana Islands | --- | .mp |
 Norway | --- | .no |
 Pakistan | --- | .pk |
 Palestine | --- | .ps |
 Peru | --- | .pe |
-[Philippines](Philippines.md) | --- | .ph |
+[Philippines](Philippines.md) | Philippines | .ph |
 Pitcairn Islands | --- | .pn |
 Poland | --- | .pl |
-[Portugal](Portugal.md) | --- | .pt |
+[Portugal](Portugal.md) | Portugal | .pt |
 Puerto Rico | --- | .pr |
-[Qatar](Qatar.md) | --- | .qa |
+[Qatar](Qatar.md) | Qatar | .qa |
 Réunion | --- | .re |
 Romania | --- | .ro |
 Russia | --- | .ru |
 Rwanda | --- | .rw |
 Saint Pierre and Miquelon | --- | .pm |
 San Marino | --- | .sm |
-[Senegal](Senegal.md) | --- | .sn |
+[Senegal](Senegal.md) | Sénégal | .sn |
 Serbia | --- | .rs |
 Singapore | --- | .sg |
 Slovakia | --- | .sk |
@@ -119,11 +119,11 @@ Tanzania | --- | .tz |
 Thailand | --- | .th |
 Tunisia | --- | .tn |
 Turkey | --- | .tr |
-[Uganda](Uganda.md) | --- | .ug |
+[Uganda](Uganda.md) | Ouganda | .ug |
 Ukraine | --- | .ua |
 United Arab Emirates | --- | .ae |
 United Kingdom | --- | .uk |
-[United States](United_States.md) | --- | .us |
+[United States](United_States.md) | États-Unis | .us |
 United States Minor Outlying Islands | --- | *Unused* |
 United States Virgin Islands | --- | .vi |
 Uruguay | --- | .uy |
