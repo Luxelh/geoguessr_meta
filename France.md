@@ -1,13 +1,19 @@
 # France
 
-## Electric poles
+EN | FR | Français | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+France | France | France | .fr | Right
 
-Blue squares on poles in the countryside.  
-![France - Electric poles](src/fr002.jpg)
-*source: [Google](https://earth.google.com/web)*
+## Numéros de téléphone
 
-## Telephone numbers
-
-Divided into 5 areas.  
-![France - Telephone numbers](src/fr001.jpg)
+Le premier chiffre des numéros fixe est fixé par zone géographique.  
+<img src="src/fr001.jpg" width="640">
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Telephone_numbers_in_France)*
+
+# Campagnes
+
+## Poteaux électriques
+
+Un petit carré bleu est très souvent présent sur les poteaux électriques.  
+<img src="src/fr002.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
