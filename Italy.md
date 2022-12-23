@@ -6,7 +6,7 @@ Italy | Italie | Italia | .it | Right
 
 ## Plaques d'immatriculations
 
-Présence d'une bande bleue de chaque côté, visible à travers le flou.  
+Présence d'une bande bleue de chaque côté, visible à travers le flou. La marque FIAT est très commune.  
 <img src="src/it003.jpg" width="640">
 <img src="src/it002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
