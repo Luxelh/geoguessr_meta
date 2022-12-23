@@ -1,7 +1,7 @@
 # Official coverage by country οr territory
 
-Country οr territory (en) | Contry top-level domain 
---- | --- |
+Country οr territory (en) | Country οr territory (fr) | Contry top-level domain 
+--- | --- | --- |
 Åland | --- | .ax |
 Albania | --- | .al |
 American Samoa | --- | .as |
