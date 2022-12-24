@@ -60,7 +60,7 @@ Israel | --- | .il |
 Japan | --- | .jp |
 Jersey | --- | .je |
 Jordan | --- | .jo |
-Kenya | --- | .ke |
+[Kenya](Kenya.md) | Kenya | .ke |
 South Korea | --- | .kr |
 [Kyrgyzstan](Kyrgyzstan.md) | Kirghizistan | .kg |
 Laos | --- | .la |
