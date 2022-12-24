@@ -1,15 +1,18 @@
 # Senegal
 
-## Camera
+EN | FR | Français | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Senegal | Sénégal | Sénégal | .sn | Right
 
-Sometimes cracks in the sky.  
-![Senegal - Environment](src/sn003.jpg)
+## Caméra
+
+Des fissures sont quelques fois visibles dans le ciel.  
+<img src="src/sn003.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 ## Google car
 
-Always roof bars or a pick up.  
-![Senegal - Google car 1](src/sn001.jpg)
-*source: [Google](https://earth.google.com/web)*
-![Senegal - Google car 2](src/sn002.jpg)
+Barres de toit visibles ou pickup blanc avec une antenne au centre.  
+<img src="src/sn001.jpg" width="640">
+<img src="src/sn002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
