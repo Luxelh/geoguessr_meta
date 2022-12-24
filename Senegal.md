@@ -12,7 +12,7 @@ Des fissures sont quelques fois visibles dans le ciel.
 
 ## Google car
 
-Barres de toit visibles ou pickup blanc avec une antenne au centre.  
+Barres de toit visibles ou pick-up blanc avec une antenne au centre.  
 <img src="src/sn001.jpg" width="640">
 <img src="src/sn002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
