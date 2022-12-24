@@ -8,7 +8,7 @@ Christmas Island | Île Christmas | Christmas Island | .cx | Left
 
 L'île est relativement petite et la couverture est centrée au Nord-Est.
 ![Christmas Island - Google car](src/cx002.jpg)
-*source: [Google](https://earth.google.com/web)*
+*source: [Geoguessr](https://www.geoguessr.com/)*
 
 L'arrière de la voiture est toujours visible et très reconnaissable.  
 ![Christmas Island - Google car](src/cx001.jpg)
