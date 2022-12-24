@@ -125,7 +125,7 @@ United Arab Emirates | --- | .ae |
 United Kingdom | --- | .uk |
 [United States](United_States.md) | États-Unis | .us |
 United States Minor Outlying Islands | --- | *Unused* |
-United States Virgin Islands | --- | .vi |
+United States [Virgin Islands](Virgin_Islands.md) | Îles Vierges | .vi |
 Uruguay | --- | .uy |
 Vanuatu | --- | .vu |
 Vietnam | --- | .vn |
