@@ -10,7 +10,7 @@ La couverture est centrée autour de Doha et des infrastructures de la coupe du 
 ![Qatar - Google car](src/qa003.jpg)
 *source: [Google](https://earth.google.com/web)*
 
-La voiture est un pick up blanc similaire à celui du Sénégal mais avec une antenne sur le bord gauche.  
+La voiture est un pick-up blanc similaire à celui du Sénégal mais avec une antenne sur le bord gauche.  
 ![Qatar - Google car](src/qa001.jpg)
 *source: [Google](https://earth.google.com/web)*
 
