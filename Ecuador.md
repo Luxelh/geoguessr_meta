@@ -16,8 +16,8 @@ L'Équateur est situé en Amérique du sud, au nord du Pérou et à l'ouest de l
 
 ## Couverture
 
-La couverture est moins prononcée à l'Est du pays. 
-<img src="src/cx003.jpg" width="640">
+La couverture est moins prononcée à l'Est du pays.  
+<img src="src/ec003.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
 
 ## Google car
