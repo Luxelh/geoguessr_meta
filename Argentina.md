@@ -12,7 +12,7 @@ L'Argentine est située au Sud de l'Amérique du Sud, à l'Est du Chili.
 
 ## Drapeau
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Chile)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Argentina)*
 
 ## Couverture
 
