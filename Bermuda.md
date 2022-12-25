@@ -29,3 +29,11 @@ Toujours le même pickup noir avec carrosserie très souvent visible.
 Une partie au Nord de l'île est couverte en bateau.  
 <img src="src/bm003.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+## Paysages
+
+### Villes
+
+Les toits sont blancs et peuvent se confondre avec les nuages. Les murs sont peints avec des couleurs vives mais qui peuvent paraîtes décolorées.  
+<img src="src/bm005.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
