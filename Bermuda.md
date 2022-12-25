@@ -1,4 +1,4 @@
-# Bermuda
+# Bermuda (United Kingdom)
 
 EN | FR | English | Contry top-level domain | Driving side
 --- | --- | --- | --- | ---
