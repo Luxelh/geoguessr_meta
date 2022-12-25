@@ -14,11 +14,13 @@ Les Bermudes sont situés dans l'Atlantique Nord, à l'Est des États-Unis. L'ar
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/1920px-Flag_of_Bermuda.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Bermuda)*
 
-## Google car
+## Couverture
 
 L'île est entièrement couverte.  
 <img src="src/bm002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+## Couverture
 
 Toujours le même pickup noir avec carrosserie très souvent visible.  
 <img src="src/bm001.jpg" width="640">
