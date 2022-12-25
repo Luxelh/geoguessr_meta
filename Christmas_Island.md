@@ -4,11 +4,23 @@ EN | FR | English | Contry top-level domain | Driving side
 --- | --- | --- | --- | ---
 Christmas Island | Île Christmas | Christmas Island | .cx | Left
 
-## Google car
+## Localisation
+
+L'île Christmas est située à l'Ouest de l'Indonésie. L'île est un territoire extérieur australien.
+<img src="src/cx006.jpg" width="640">
+*source: [Google Maps](https://www.google.com/maps)*
+
+## Drapeau
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/1920px-Flag_of_Christmas_Island.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Christmas_Island)*
+
+## Couverture
 
 L'île est relativement petite et la couverture est centrée au Nord-Est.
 ![Christmas Island - Google car](src/cx002.jpg)
 *source: [Geoguessr](https://www.geoguessr.com/)*
+
+## Google car
 
 L'arrière de la voiture est toujours visible et très reconnaissable.  
 ![Christmas Island - Google car](src/cx001.jpg)
