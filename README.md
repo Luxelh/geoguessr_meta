@@ -7,7 +7,7 @@ Albania | --- | .al |
 American Samoa | --- | .as |
 Andorra | --- | .ad |
 Antarctica | --- | .aq |
-Argentina | --- | .ar |
+[Argentina](Argentina.md) | Argentine | .ar |
 Australia | --- | .au |
 Austria | --- | .at |
 Bangladesh | --- | .bd |
