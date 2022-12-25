@@ -4,6 +4,12 @@ EN | FR | English | Contry top-level domain | Driving side
 --- | --- | --- | --- | ---
 Bermuda | Bermudes | Bermuda | .bm | Left
 
+## Localisation
+
+Les Bermudes sont situés dans l'Atlantique Nord, à l'Est des États-Unis. L'archipel est un territoire britannique d'outre mer.  
+<img src="src/bm004.jpg" width="640">
+*source: [Google](https://www.google.com/maps)*
+
 ## Drapeau
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/1920px-Flag_of_Bermuda.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Bermuda)*
