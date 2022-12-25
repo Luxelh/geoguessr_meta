@@ -22,6 +22,6 @@ La couverture est moins prononcée à l'Est du pays.
 
 ## Google car
 
-Une antenne peut être visible.
-![Ecuador - Google car](src/ec001.jpg)
+Une antenne peut être visible.  
+<img src="src/ec001.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
