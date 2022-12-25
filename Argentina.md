@@ -26,3 +26,16 @@ Le capot noir est souvent visible. L'arrière de la voiture peut aussi apparaît
 <img src="src/ar003.jpg" width="640">
 <img src="src/ar004.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+## Plaques d'immatriculations
+
+Les [plaques argentines](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Argentina) ont changé en 2016, les plus récentes sont blanches avec un bandeau bleu en haut de la plaque.  
+<img src="src/ar005.jpg" width="640">
+<img src="src/ar006.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+Les plaques d'avant 2016 sont noires avec un contour blanc. Avec le flou, on distingue des plaques blanches avec un point noir au milieu.  
+<img src="src/ar007.jpg" width="640">
+<img src="src/ar008.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
