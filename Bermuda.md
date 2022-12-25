@@ -20,7 +20,7 @@ L'île est entièrement couverte.
 <img src="src/bm002.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-## Couverture
+## Google car
 
 Toujours le même pickup noir avec carrosserie très souvent visible.  
 <img src="src/bm001.jpg" width="640">
