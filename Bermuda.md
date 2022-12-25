@@ -18,7 +18,7 @@ Les Bermudes sont situés dans l'Atlantique Nord, à l'Est des États-Unis. L'ar
 
 L'île est entièrement couverte.  
 <img src="src/bm002.jpg" width="640">
-*source: [Google](https://earth.google.com/web)*
+*source: [Geoguessr](https://www.geoguessr.com/)*
 
 ## Google car
 
