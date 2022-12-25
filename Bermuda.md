@@ -8,7 +8,7 @@ Bermuda | Bermudes | Bermuda | .bm | Left
 
 Les Bermudes sont situés dans l'Atlantique Nord, à l'Est des États-Unis. L'archipel est un territoire britannique d'outre mer.  
 <img src="src/bm004.jpg" width="640">
-*source: [Google](https://www.google.com/maps)*
+*source: [Google Maps](https://www.google.com/maps)*
 
 ## Drapeau
 
