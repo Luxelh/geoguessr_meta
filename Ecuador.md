@@ -28,9 +28,13 @@ Une antenne peut être visible.
 
 ## Plaques d'immatriculation
 
-Les [plaques équatoriennes](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador) sont en cours de remplacement (depuis 2012), la forme peut donc être différente en fonction des voitures. Les plaques privées sont blanches avec une écriture noire.  
+Les [plaques équatoriennes](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador) sont en cours de remplacement (depuis 2012), la forme peut donc être différente en fonction des voitures. 
 <img src="src/ec005.jpg" width="640">
 <img src="src/ec006.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+Les plaques privées sont blanches avec une écriture noire.  
+<img src="src/ec007.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 Les véhicules commerciaux (taxi ou bus) et les véhicules officiels ont une plaque de couleurs différentes. Pour les plaques récentes, la plaque reste blanche mais la couleur apparaît dans un bandeau.    
