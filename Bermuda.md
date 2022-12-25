@@ -35,5 +35,6 @@ Une partie au Nord de l'île est couverte en bateau.
 ### Villes
 
 Les toits sont blancs et peuvent se confondre avec les nuages. Les murs sont peints avec des couleurs vives mais qui peuvent paraîtes décolorées.  
+<img src="src/bm006.jpg" width="640">
 <img src="src/bm005.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
