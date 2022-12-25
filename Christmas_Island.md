@@ -6,7 +6,7 @@ Christmas Island | Île Christmas | Christmas Island | .cx | Left
 
 ## Localisation
 
-L'île Christmas est située à l'Ouest de l'Indonésie. L'île est un territoire extérieur australien.
+L'île Christmas est située à l'Ouest de l'Indonésie. L'île est un territoire extérieur australien.  
 <img src="src/cx006.jpg" width="640">
 *source: [Google Maps](https://www.google.com/maps)*
 
@@ -16,14 +16,14 @@ L'île Christmas est située à l'Ouest de l'Indonésie. L'île est un territoir
 
 ## Couverture
 
-L'île est relativement petite et la couverture est centrée au Nord-Est.
-![Christmas Island - Google car](src/cx002.jpg)
+L'île est relativement petite et la couverture est centrée au Nord-Est. Une partie en bateau est présente au Nord de l'île et certaines plages ont étés couvertes à pied.  
+<img src="src/cx002.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
 
 ## Google car
 
 L'arrière de la voiture est toujours visible et très reconnaissable.  
-![Christmas Island - Google car](src/cx001.jpg)
+<img src="src/cx001.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 ## Paysages
@@ -31,12 +31,16 @@ L'arrière de la voiture est toujours visible et très reconnaissable.
 ### Villes
 
 Seul la petite partie Nord-Est qui comprend le port est pourvu d'habitations.  
-![Christmas Island - Google car](src/cx003.jpg)
+<img src="src/cx003.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 ### Campagnes
 
 Le reste de l'île est très forestier, notamment au centre.  
-![Christmas Island - Google car](src/cx004.jpg)
-![Christmas Island - Google car](src/cx005.jpg)
+<img src="src/cx004.jpg" width="640">
+<img src="src/cx005.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+L'île est connue pour sa période de migration de crabes rouges (octobre-novembre). Ils apparaissent dans certaines zones.  
+<img src="src/cx007.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
