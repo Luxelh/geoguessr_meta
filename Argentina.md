@@ -39,3 +39,12 @@ Les plaques d'avant 2016 sont noires avec un contour blanc. Avec le flou, on dis
 <img src="src/ar008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
+## Paysages
+
+### Villes
+
+Ces panneaux sont très fréquents dans les intersections, les couleurs peuvent varier en fonction de la ville et des quartiers.
+<img src="src/ar009.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+
