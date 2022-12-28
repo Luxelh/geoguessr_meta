@@ -16,7 +16,6 @@ Andorre est un petit étant situé entre la France et l'Espagne.
 
 ## Couverture
 
-La couverture est relativement complète.  
+La couverture est centrée autour des principaux axes routiers.
 <img src="src/ad002.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
-
