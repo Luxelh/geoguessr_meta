@@ -5,7 +5,7 @@ Country οr territory (en) | Country οr territory (fr) | Contry top-level domai
 Åland | --- | .ax |
 Albania | --- | .al |
 American Samoa | --- | .as |
-Andorra | --- | .ad |
+[Andorra](Andorra.md) | Andorre | .ad |
 Antarctica | --- | .aq |
 [Argentina](Argentina.md) | Argentine | .ar |
 Australia | --- | .au |
