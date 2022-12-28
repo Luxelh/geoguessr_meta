@@ -22,12 +22,12 @@ La couverture est relativement complète.
 
 ## Google car
 
-Le capot noir est souvent visible. L'arrière de la voiture peut aussi apparaître.  
+Un capot noir est souvent visible. L'arrière de la voiture peut aussi apparaître.  
 <img src="src/ar003.jpg" width="640">
 <img src="src/ar004.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-Quelquefois, cette voiture peut aussi apparaitre.  
+Certaines routes couvertes par cette voiture.  
 <img src="src/ar010.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
