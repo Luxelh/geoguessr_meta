@@ -64,6 +64,6 @@ Ces panneaux sont visibles dans les intersections.
 
 ## Poteaux électriques
  
-Ces poteaux apparaissent très souvent.
+Ces poteaux apparaissent très souvent.  
 <img src="src/cl017.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
