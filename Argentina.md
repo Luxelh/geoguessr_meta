@@ -12,7 +12,7 @@ L'Argentine est située au Sud de l'Amérique du Sud, à l'Est du Chili.
 
 ## Drapeau
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Argentina)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png" width="640">*source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
 
 ## Couverture
 
@@ -34,15 +34,15 @@ Certaines routes couvertes par cette voiture.
 ## Plaques d'immatriculations
 
 Les plaques argentines ont changé en 2016, les plus récentes sont blanches avec un bandeau bleu en haut de la plaque.  
-*source: [Wikipédia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Argentina)*   
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Argentina)*   
 <img src="src/ar005.jpg" width="640">
-*source: [Wikipédia](https://en.wikipedia.org/wiki/Argentina)*
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
 <img src="src/ar006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 Les plaques d'avant 2016 sont noires avec un contour blanc. Avec le flou, on distingue des plaques blanches avec un point noir au milieu.  
 <img src="src/ar007.jpg" width="640">
-*source: [Wikipédia](https://en.wikipedia.org/wiki/Argentina)*
+*source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
 <img src="src/ar008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
