@@ -53,3 +53,7 @@ Les routes sont blanches, les lignes centrales peuvent être continues ou en poi
 Il existe aussi une multitude de routes non goudronnées.  
 <img src="src/cl014.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+Ces panneaux sont visibles dans les intersections.
+<img src="src/ar015.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
