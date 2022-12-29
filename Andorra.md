@@ -12,7 +12,7 @@ Andorre est un petit étant situé entre la France et l'Espagne.
 
 ## Drapeau
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png" width="640">*[Wikipédia](https://en.wikipedia.org/wiki/Andorra)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1280px-Flag_of_Andorra.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Andorra)*
 
 ## Couverture
 
