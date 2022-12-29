@@ -55,5 +55,5 @@ Il existe aussi une multitude de routes non goudronnées.
 *source: [Google](https://earth.google.com/web)*
 
 Ces panneaux sont visibles dans les intersections.
-<img src="src/ar015.jpg" width="640">
+<img src="src/cl015.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
