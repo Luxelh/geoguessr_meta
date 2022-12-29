@@ -24,8 +24,9 @@ Le pays est relativement couvert, hormis l'extrème Sud du pays.
 
 ## Google car
 
-Un capot blanc est souvent visible.  
+Un capot blanc est souvent visible. L'arrière de la voiture peut aussi apparaître.  
 <img src="src/cl005.jpg" width="640">
+<img src="src/cl008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 ## Plaques d'immatriculations
@@ -35,3 +36,15 @@ Les plaques chiliennes sont blanches avec écritures noires. *source: [Wikipedia
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
 <img src="src/cl007.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+## Routes et signalisation
+
+Les routes sont blanches, les lignes centrales peuvent être continues ou en pointillés.  
+<img src="src/cl009.jpg" width="640">
+<img src="src/cl010.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+À l'extrême Sud du pays, dans la terre de feu, les lignes peuvent être entièrement ou partiellement jaunes.  
+<img src="src/cl011.jpg" width="640">
+<img src="src/cl012.jpg" width="640">
+<img src="src/cl013.jpg" width="640">
