@@ -37,6 +37,10 @@ Les plaques chiliennes sont blanches avec écritures noires. *source: [Wikipedia
 <img src="src/cl007.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
+Les taxis ont une plaque jaune ou orange.  
+<img src="src/cl016.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
 ## Routes et signalisation
 
 Les routes sont blanches, les lignes centrales peuvent être continues ou en pointillés.  
@@ -54,6 +58,12 @@ Il existe aussi une multitude de routes non goudronnées.
 <img src="src/cl014.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-Ces panneaux sont visibles dans les intersections.
+Ces panneaux sont visibles dans les intersections.  
 <img src="src/cl015.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+## Poteaux électriques
+ 
+Ces poteaux apparaissent très souvent.
+<img src="src/cl017.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
