@@ -37,6 +37,10 @@ En ville, notamment dans la capitale, les routes sont souvent étroites et à se
 <img src="src/ad006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
+Ces marqueurs de neige colorés sont souvent visibles sur les bords des routes.  
+<img src="src/ad012.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
 ## Bâtiments
 
 Les bâtiments sont souvent faits de briques, avec plusieurs étages et peuvent parfois être imposants.  
@@ -51,7 +55,7 @@ Le relief est important, forestier et rocheux.
 <img src="src/ad011.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-Une station de ski est couverte au Nord-Ouest du pays, entre Canillo et El Pas de la Casa.  
+Des stations de ski sont couvertes au Nord-Est du pays, entre Canillo et El Pas de la Casa.  
 <img src="src/ad009.jpg" width="640">
 <img src="src/ad008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
