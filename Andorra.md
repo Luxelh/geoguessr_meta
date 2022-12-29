@@ -22,6 +22,6 @@ La couverture est centrée autour des principaux axes routiers.
 
 ## Routes
 
-Le réseau comprend 6 routes principales (CG-, *carretera general*) et une trantaine de routes secondaires (CS-, *carretera secundària*).
-*source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)* 
+Le réseau comprend 6 routes principales (CG-, *carretera general*) et une trantaine de routes secondaires (CS-, *carretera secundària*).  
+*source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*  
 <img src="src/ad002.jpg" width="640">
