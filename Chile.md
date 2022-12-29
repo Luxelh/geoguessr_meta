@@ -49,3 +49,7 @@ Les routes sont blanches, les lignes centrales peuvent être continues ou en poi
 <img src="src/cl011.jpg" width="640">
 <img src="src/cl012.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
+
+Il existe aussi une multitude de routes non goudronnées.  
+<img src="src/cl014.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
