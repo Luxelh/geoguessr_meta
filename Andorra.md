@@ -26,10 +26,10 @@ Une petite antenne peut être visible.
 <img src="src/ad004.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-## Routes
+## Routes et signalisations
 
-Le réseau comprend 6 routes principales (CG-, *carretera general*) et une trentaine de routes secondaires (CS-, *carretera secundària*). Les routes et les kilomètres sont indiqués par ces panneaux.  
-*source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*  
+Le réseau comprend 6 routes principales (CG-, *carretera general*) et une trentaine de routes secondaires (CS-, *carretera secundària*). Les routes et les kilomètres sont indiqués par des petits panneaux. À cause du relief important, les petites routes sont très souvent construites en lacets. *source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Andorra_topographic_map-ca.svg/1200px-Andorra_topographic_map-ca.svg.png" width="640">*source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*
 <img src="src/ad003.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
@@ -37,8 +37,21 @@ En ville, notamment dans la capitale, les routes sont souvent étroites et à se
 <img src="src/ad006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
+## Bâtiments
+
+Les bâtiments sont souvent faits de briques, avec plusieurs étages et peuvent parfois être imposants.  
+<img src="src/ad007.jpg" width="640">
+<img src="src/ad005.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
 ## Paysages
 
-Les bâtiments sont souvent faits de briques, ils ont plusieurs étages et peuvent parfois être imposants.  
-<img src="src/ad005.jpg" width="640">
+Le relief est important, forestier et rocheux.  
+<img src="src/ad010.jpg" width="640">
+<img src="src/ad011.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+Une station de ski est couverte au Nord-Ouest du pays, entre Canillo et El Pas de la Casa.  
+<img src="src/ad009.jpg" width="640">
+<img src="src/ad008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
