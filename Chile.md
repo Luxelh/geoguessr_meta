@@ -35,9 +35,3 @@ Les plaques chiliennes sont blanches avec écritures noires. *source: [Wikipedia
 *source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
 <img src="src/cl007.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
-
-Les plaques d'avant 2016 sont noires avec un contour blanc. Avec le flou, on distingue des plaques blanches avec un point noir au milieu.  
-<img src="src/ar007.jpg" width="640">
-*source: [Wikipedia](https://en.wikipedia.org/wiki/Argentina)*
-<img src="src/ar008.jpg" width="640">
-*source: [Google](https://earth.google.com/web)*
