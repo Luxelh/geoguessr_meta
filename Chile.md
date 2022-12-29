@@ -45,6 +45,7 @@ Les routes sont blanches, les lignes centrales peuvent être continues ou en poi
 *source: [Google](https://earth.google.com/web)*
 
 À l'extrême Sud du pays, dans la terre de feu, les lignes peuvent être entièrement ou partiellement jaunes.  
+<img src="src/cl013.jpg" width="640">
 <img src="src/cl011.jpg" width="640">
 <img src="src/cl012.jpg" width="640">
-<img src="src/cl013.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
