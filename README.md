@@ -22,7 +22,7 @@ British Indian Ocean Territory | --- | .io |
 Bulgaria | --- | .bg |
 Cambodia | --- | .kh |
 Canada | --- | .ca |
-Chile | --- | .cl |
+[Chile](Chile.md) | Chili | .cl |
 China | --- | .cn |
 [Christmas Island](Christmas_Island.md) | Île Christmas | .cx |
 Cocos (Keeling) Islands | --- | .cc |
