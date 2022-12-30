@@ -17,7 +17,7 @@ Belgium | --- | .be |
 Bhutan | --- | .bt |
 Bolivia | --- | .bo |
 Botswana | --- | .bw |
-Brazil | --- | .br |
+[Brazil](Brazil.md) | Brésil | .br |
 British Indian Ocean Territory | --- | .io |
 Bulgaria | --- | .bg |
 Cambodia | --- | .kh |
