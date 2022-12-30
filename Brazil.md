@@ -39,5 +39,3 @@ Les anciennes plaques privées étaient grises avec une écriture noire, tandis 
 <img src="src/br007.jpg" width="640">
 <img src="src/br006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
-
-Les anciennes plaques sont 
