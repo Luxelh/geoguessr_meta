@@ -20,12 +20,17 @@ La couverture est moindre à l'Ouest du pays mais est relativement importante à
 <img src="src/br002.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
 
-
 ## Google car
 
 Un capot bleu ou blanc peut apparaitre. Quand la voiture est blanche, on peut rarement distinguer une petite antenne.  
 <img src="src/br004.jpg" width="640">
 <img src="src/br003.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
+
+## Langue
+
+La langue principale du Brésil est le portugais. On peut la distinguer du portugais par la présence de "*ç*" et par l'apparition régulière du suffixe "*ção*".  
+<img src="src/br008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
 ## Plaques d'immatriculations
@@ -35,7 +40,7 @@ Les plaques brésiliennes ont changé en 2018 pour les plaques standard du Merco
 <img src="src/br005.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-Les anciennes plaques privées étaient grises avec une écriture noire, tandis que les plaques de taxis étaient rouges avec écritures blanches.  
+Les anciennes plaques privées étaient grises avec écritures noires, tandis que les plaques de taxis étaient rouges avec écritures blanches.  
 <img src="src/br007.jpg" width="640">
 <img src="src/br006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
