@@ -36,6 +36,6 @@ Les passages piétons sont jaunes.
 <img src="src/ch004.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-Des signalisations noir et blancs apparaissent très souvent.  
-
+Des signalisations noir et blanches ou noir et jaunes apparaissent très souvent.  
+<img src="src/ch006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
