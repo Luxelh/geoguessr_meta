@@ -113,7 +113,7 @@ Spain | --- | .es |
 Sri Lanka | --- | .lk |
 Svalbard | --- | *Unused* |
 Sweden | --- | .se |
-Switzerland | --- | .ch |
+[Switzerland](Switzerland.md) | Suisse | .ch |
 Taiwan | --- | .tw |
 Tanzania | --- | .tz |
 Thailand | --- | .th |
