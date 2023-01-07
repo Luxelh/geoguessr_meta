@@ -12,7 +12,7 @@ La Suisse est un pays d'Europe centrale située entre la France, l'Allemagne, l'
 
 ## Drapeau
 
-<img src="https://fr.wikipedia.org/wiki/Suisse#/media/Fichier:Flag_of_Switzerland_(Pantone).svg" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/800px-Flag_of_Switzerland_%28Pantone%29.svg.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland)*
 
 ## Couverture
 
@@ -22,8 +22,9 @@ La couverture est très complète.
 
 ## Plaques d'immatriculations
 
-Contrairement à la plupart des pays d'Europe, les plaques suisses sont blanches et n'ont pas de bandes bleues, elles sont aussi un peu moins allongées. *source: [Wikipedia]([https://es.wikipedia.org/wiki/Matr%C3%ADculas_automovil%C3%ADsticas_de_Chile](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland))*  
-<img src="https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland#/media/File:Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland)* 
+Contrairement à la plupart des pays d'Europe, les plaques suisses sont blanches et n'ont pas de bandes bleues, elles sont aussi un peu moins allongées. *source: [Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland)*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg/1920px-Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg" width="640">
+*source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland)*  
 Les plaques peuvent apparaître dans plusieurs formats.
 <img src="src/ch003.jpg" width="640">
 <img src="src/ch005.jpg" width="640">
@@ -36,5 +37,5 @@ Les passages piétons sont jaunes.
 *source: [Google](https://earth.google.com/web)*
 
 Des signalisations noir et blancs apparaissent très souvent.  
-<img src="src/ch006.jpg" width="640">
+
 *source: [Google](https://earth.google.com/web)*
