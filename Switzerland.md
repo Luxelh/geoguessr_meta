@@ -33,7 +33,7 @@ Les plaques peuvent apparaître dans plusieurs formats.
 ## Routes et signalisations
 
 Les autoroutes (*autobahnen* en allemand) sont signalés par des numéros dans hexagones rouges étirés. Les numéros des "routes principales" (*Hauptstraßen*) sont indiqués dans des carrés bleues. *source: [Wikipédia](https://en.wikipedia.org/wiki/Motorways_of_Switzerland)*
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Image-Swiss-Highway-network-en.png/1280px-Image-Swiss-Highway-network-en.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Motorways_of_Switzerland)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Image-Swiss-Highway-network-en.png/1280px-Image-Swiss-Highway-network-en.png" width="640">*source: [Wikipédia](https://en.wikipedia.org/wiki/Motorways_of_Switzerland)*  
 Le numéros européens apparaissent dans des carrés vert.  
 <img src="src/ch008.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
