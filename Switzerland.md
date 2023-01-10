@@ -22,7 +22,7 @@ La couverture est très complète.
 
 ## Langue
 
-Le pays utilise en majorité l'allemand, mais aussi le français à l'ouest, l'italien au sud et dans une moindre mesure, à l'est, le romanche. *source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*
+Le pays utilise en majorité l'allemand, mais aussi le français à l'ouest, l'italien au sud et dans une moindre mesure, à l'est, le romanche. *source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Schweizer_Sprachgebiete_2017.png/1280px-Karte_Schweizer_Sprachgebiete_2017.png" width="640">
 *source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*
 
