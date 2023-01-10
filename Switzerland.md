@@ -20,6 +20,12 @@ La couverture est très complète.
 <img src="src/ch002.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
 
+## Langue
+
+Le pays utilise en majorité l'allemand, mais aussi le français à l'ouest, l'italien au sud et dans une moindre mesure, à l'est, le romanche. *source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Karte_Schweizer_Sprachgebiete_2017.png/1280px-Karte_Schweizer_Sprachgebiete_2017.png" width="640">
+*source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*
+
 ## Plaques d'immatriculations
 
 Contrairement à la plupart des pays d'Europe, les plaques suisses sont blanches et n'ont pas de bandes bleues, elles sont aussi un peu moins allongées. *source: [Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Switzerland)*  
