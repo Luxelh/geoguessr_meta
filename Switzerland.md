@@ -46,6 +46,7 @@ Des signalisations noir et blanches ou noir et jaunes apparaissent très souvent
 <img src="src/ch006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
 
-En campagne, des bornes sont visibles le long des routes.  
+En campagne, des bornes sont visibles le long des routes, elle peuvent avoir un bout rond ou triangulaire.   
 <img src="src/ch007.jpg" width="640">
+<img src="src/ch009.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
