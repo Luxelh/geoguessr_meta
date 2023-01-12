@@ -35,17 +35,21 @@ Les routes sont divisées en 4 catégories (en plus des routes européennes): le
 
 Les autoroutes sont indiquées par des panneaux bleus.  
 <img src="src/lu007.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
 
 Les routes nationales et les voies express sont indiquées dans des encadrées rouges.  
 <img src="src/lu008.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
 
 Les routes locales sont dans des encadrées jaunes. Les routes commençant par **1** ou **2** sont au Sud alors que celles commencent par **3** sont au Nord.  
 <img src="src/lu009.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
 
 ### Délimitateurs
 
 Les délimitateurs sont très souvent visibles en dehors des villes.  
 <img src="src/lu005.jpg" width="640">
+*source: [Google](https://earth.google.com/web)*
 
 Lorsque les routes sont longées d'arbres, leurs troncs peuvent être peints en blanc pour faire office de délimitateurs.  
 <img src="src/lu006.jpg" width="640">
