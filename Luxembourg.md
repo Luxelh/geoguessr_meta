@@ -29,6 +29,8 @@ Plaques européennes jaunes à l'avant et l'arrière.
 
 ## Routes et signalisations
 
+### Routes
+
 Les routes sont divisées en 4 catégories (en plus des routes européennes): les "autoroutes" (*motorways*) (A), les voies express (*expressways*) (B), les routes nationales (*national roads*) (N) et les routes locales (*local roads*) (CR). *source: [Road numbering systems](https://sites.google.com/site/roadnumberingsystems/home/countries/luxembourg)*  
 
 Les autoroutes sont indiquées par des panneaux bleus.  
@@ -40,8 +42,11 @@ Les routes nationales et les voies express sont indiquées dans des encadrées r
 Les routes locales sont dans des encadrées jaunes. Les routes commençant par **1** ou **2** sont au Sud alors que celles commencent par **3** sont au Nord.  
 <img src="src/lu009.jpg" width="640">
 
+### Délimitateurs
+
 Les délimitateurs sont très souvent visibles en dehors des villes.  
 <img src="src/lu005.jpg" width="640">
+
 Lorsque les routes sont longées d'arbres, leurs troncs peuvent être peints en blanc pour faire office de délimitateurs.  
 <img src="src/lu006.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
