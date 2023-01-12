@@ -37,7 +37,7 @@ Les autoroutes sont indiquées par des panneaux bleus.
 Les routes nationales et les voies express sont indiquées dans des encadrées rouges.  
 <img src="src/lu008.jpg" width="640">
 
-Les routes locales sont dans des encadrées jaunes, dans la partie Nord du pays le chiffre des centaines est *3* alors qu'il est de *1* ou *2* pour les routes du Sud.  
+Les routes locales sont dans des encadrées jaunes, dans la partie Nord du pays le chiffre des centaines est **3** alors qu'il est de **1** ou **2** pour les routes du Sud.  
 <img src="src/lu009.jpg" width="640">
 
 Les délimitateurs sont très souvent visibles en dehors des villes.  
