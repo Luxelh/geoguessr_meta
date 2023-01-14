@@ -41,7 +41,7 @@ Les plaques mexicaines sont très difficiles à reconnaitre, chaque état à sa 
 Les routes ont des lignes extérieures blanches et une ou deux lignes jaunes au centre.  
 <img src="src/mx007.jpg" width="640">
 <img src="src/mx008.jpg" width="640">
-*source: [Google](https://earth.google.com/web)*
+*source: [Google](https://earth.google.com/web)*  
 On peut aussi trouver des routes ressemblant à celle-ci.  
 <img src="src/mx009.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
