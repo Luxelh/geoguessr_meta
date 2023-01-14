@@ -20,6 +20,10 @@ La couverture est très complète.
 <img src="src/ch002.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
 
+Il existe une couverture ferroviaire, très reconnaissable (situé au Sud-Est du pays).
+<img src="src/ch010.jpg" width="640">
+*source: [Geoguessr](https://www.geoguessr.com/)*
+
 ## Langue
 
 Le pays utilise en majorité l'allemand, mais aussi le français à l'ouest, l'italien au sud et dans une moindre mesure, à l'est, le romanche. *source: [Wikipédia](https://en.wikipedia.org/wiki/Switzerland#Languages)*  
