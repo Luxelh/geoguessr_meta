@@ -76,7 +76,7 @@ Madagascar | --- | .mg |
 Malaysia | --- | .my |
 [Malta](Malta.md) | Malte | .mt |
 Martinique | --- | .mq |
-Mexico | --- | .mx |
+[Mexico](Mexico.md) | Mexique | .mx |
 Monaco | --- | .mc |
 [Mongolia](Mongolia.md) | Mongolie | .mn |
 Montenegro | --- | .me |
