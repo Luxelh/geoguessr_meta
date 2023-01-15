@@ -118,7 +118,7 @@ Taiwan | --- | .tw |
 Tanzania | --- | .tz |
 Thailand | --- | .th |
 Tunisia | --- | .tn |
-Turkey | --- | .tr |
+[Turkey](Turkey.md) | Turquie | .tr |
 [Uganda](Uganda.md) | Ouganda | .ug |
 Ukraine | --- | .ua |
 United Arab Emirates | --- | .ae |
