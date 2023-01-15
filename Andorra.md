@@ -29,7 +29,7 @@ Une petite antenne peut être visible.
 ## Routes et signalisations
 
 Le réseau comprend 6 routes principales (CG-, *carretera general*) et une trentaine de routes secondaires (CS-, *carretera secundària*). Les routes et les kilomètres sont indiqués par des petits panneaux. À cause du relief important, les petites routes sont très souvent construites en lacets. *[Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Andorra_topographic_map-ca.svg/1200px-Andorra_topographic_map-ca.svg.png" width="640">*source: [Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Andorra_topographic_map-ca.svg/1200px-Andorra_topographic_map-ca.svg.png" width="640">*[Wikipédia](https://ca.wikipedia.org/wiki/Llista_de_carreteres_d%27Andorra)*
 <img src="src/ad003.jpg" width="640">
 *[Google](https://earth.google.com/web)*
 
