@@ -18,7 +18,7 @@ La Turquie est un pays transcontinental situé entre l'Europe et l'Asie. Il part
 
 La couverture est assez complète et quadrille les zones plus naturelles du pays par les routes principales.  
 <img src="src/tr002.jpg" width="640">
-*source: [Geoguessr](https://www.geoguessr.com/)*
+*[Geoguessr](https://www.geoguessr.com/)*
 
 ## Langue
 
