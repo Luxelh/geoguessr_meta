@@ -22,6 +22,6 @@ La couverture est assez complète et quadrille les zones plus naturelles du pays
 
 ## Langue
 
-La langue officielle est le Turc, elle peut être reconnue par la présence des lettres "*ö*", "*ı*", "*ğ*" et surtout "*ş*" qui est très courante. *source: [Wikipedia](https://en.wikipedia.org/wiki/Turkish_language),[somerandomstuff1](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)*  
+La langue officielle est le Turc, elle peut être reconnue par la présence des lettres "*ö*", "*ı*", "*ğ*" et surtout "*ş*" qui est très courante. *source: [Wikipedia](https://en.wikipedia.org/wiki/Turkish_language), [somerandomstuff1](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)*  
 <img src="src/tr003.jpg" width="640">
 *source: [Google](https://earth.google.com/web)*
