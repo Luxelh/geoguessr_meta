@@ -32,6 +32,6 @@ La route n°1 est la route principale, elle fait un tour complet de l'île. Les 
 <img src="src/is002.jpg" width="640">
 *[Wikipedia](https://en.wikipedia.org/wiki/List_of_roads_in_Iceland)*
 
-Les panneaux désignant de routes sont jaunes.  
+Les panneaux désignant les routes sont jaunes.  
 <img src="src/is005.jpg" width="640">
 *[Google](https://earth.google.com/web)*
