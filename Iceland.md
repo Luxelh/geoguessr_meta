@@ -1,15 +1,34 @@
 # Iceland
 
+EN | FR | Icelandic | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Iceland | Islande | Ísland  | .is | Right
+
+## Localisation
+
+L'Islande est située dans l'Océan Atlantique, entre le Groenland et la Norvège, au Nord-Ouest des îles Féroé.  
+<img src="src/is003.jpg" width="640">
+*[Google Maps](https://www.google.com/maps)*
+
+## Drapeau
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png" width="640">*[Wikipedia](https://en.wikipedia.org/wiki/Iceland)*
+
+## Couverture
+
+La couverture est présente uniquement sur les bords de l'île.  
+<img src="src/is004.jpg" width="640">
+*[Geoguessr](https://www.geoguessr.com/)*
+
 ## Google car
 
-Always an long antenna.  
-![Iceland - Google car](src/is001.jpg)
-*source: [Google](https://earth.google.com/web)*
+Une longue antenne est toujours visible.  
+<img src="src/is001.jpg" width="640">
+*[Google](https://earth.google.com/web)*
 
-## Roads
 
-National Highway System :
+## Routes et signalisation
 
-Eight numbering zones divide the island. Each dialing zone has a number which determines which is the first digit of the number. 1 is reserved for the ring road and the others increase clockwise from southeast to east.  
-<img src="src/is002.jpg" alt="Island - National Highway System" width="720">
-*source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_roads_in_Iceland)*
+La route n°1 est la route principale, elle fait un tour complet de l'île. Les numéros des routes secondaires commencent par un 2 au Sud-Ouest, puis augmentent dans le sens des aiguilles d'une montre pour arriver à 9, au Sud-Est de l'île.  
+<img src="src/is002.jpg" width="640">
+*[Wikipedia](https://en.wikipedia.org/wiki/List_of_roads_in_Iceland)*
