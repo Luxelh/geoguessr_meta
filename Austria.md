@@ -25,3 +25,7 @@ La couverture est très complète.
 La police d'écrite des numéros de rue est très reconnaissable, les panneaux bleu et blanc avec écrit le mot "**Einbahn**" sont très fréquents, ils indiquent une voie à sens unique.  
 <img src="src/at003.jpg" width="640">
 *[Google](https://earth.google.com/web)*
+
+Les délimiteurs sont de cette forme, seules les bornes où la bande réfléchissante à l'avant est de couleur foncée (et non rouge vif) sont uniques à l'Autriche. *[Geoguessr en français](https://www.youtube.com/watch?v=hlHIhLoAaXY)*  
+<img src="src/at004.jpg" width="640">
+*[Google](https://earth.google.com/web)
