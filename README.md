@@ -99,7 +99,7 @@ Puerto Rico | --- | .pr |
 Réunion | --- | .re |
 Romania | --- | .ro |
 Russia | --- | .ru |
-Rwanda | --- | .rw |
+[Rwanda](Rwanda.md) | Rwanda | .rw |
 Saint Pierre and Miquelon | --- | .pm |
 San Marino | --- | .sm |
 [Senegal](Senegal.md) | Sénégal | .sn |
