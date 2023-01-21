@@ -22,6 +22,11 @@ La couverture est relativement complète.
 
 
 ## Routes et signalisation
+
 Les panneaux de vigilance de ce type, avec un contour rouge extrêmement fin sont uniques à la Pologne. Les panneaux bleu et blanc précédant des passages piétons sont aussi très fréquents.  
 <img src="src/pl003.jpg" width="640">
+*[Google](https://earth.google.com/web)*
+
+Les délimitateurs sont bancs avec une bande oblique rouge, le kilométrage est visible à l'avant tandis qu'une bande réfléchissante blanche horizontale se trouve à l'arrière.  
+<img src="src/pl004.jpg" width="640">
 *[Google](https://earth.google.com/web)*
