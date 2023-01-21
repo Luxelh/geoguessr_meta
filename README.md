@@ -92,7 +92,7 @@ Palestine | --- | .ps |
 Peru | --- | .pe |
 [Philippines](Philippines.md) | Philippines | .ph |
 Pitcairn Islands | --- | .pn |
-Poland | --- | .pl |
+[Poland](Poland.md) | Pologne | .pl |
 [Portugal](Portugal.md) | Portugal | .pt |
 Puerto Rico | --- | .pr |
 [Qatar](Qatar.md) | Qatar | .qa |
