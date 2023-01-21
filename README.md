@@ -9,7 +9,7 @@ American Samoa | --- | .as |
 Antarctica | --- | .aq |
 [Argentina](Argentina.md) | Argentine | .ar |
 Australia | --- | .au |
-Austria | --- | .at |
+[Austria](Austria.md) | Autriche | .at |
 Bangladesh | --- | .bd |
 Belarus | --- | .by |
 Belgium | --- | .be |
