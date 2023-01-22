@@ -38,3 +38,16 @@ Les services de police et les pompiers ont des plaques différentes. *[Wikipedia
 *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*
 <img src="src/rs004.jpg" width="640">
 *[Google](https://earth.google.com/web)*
+
+
+## Routes et signalisation
+
+### Délimitateurs
+
+Deux types de délimitateurs peuvent être vus, ceux-ci sont les plus courants.  
+<img src="src/rs007.jpg" width="640">
+*[Google](https://earth.google.com/web)*
+
+Cette forme est plus rare et visible sur certaines grandes routes et ressemble plus aux bornes des pays alentour.  
+<img src="src/rs006.jpg" width="640">
+*[Google](https://earth.google.com/web)*
