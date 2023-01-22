@@ -85,7 +85,7 @@ Nepal | --- | .np |
 New Zealand | --- | .nz |
 [Nigeria](Nigeria.md) | Nigeria | .ng |
 North Macedonia | --- | .mk |
-Northern Mariana Islands | --- | .mp |
+[Northern Mariana Islands](Northern_Mariana_Islands.md) | Îles Mariannes du Nord | .mp |
 Norway | --- | .no |
 Pakistan | --- | .pk |
 Palestine | --- | .ps |
