@@ -21,5 +21,7 @@ La couverture est presque inexistante, seule quelques très court parcours sont 
 *[Geoguessr](https://www.geoguessr.com/)*
 
 Un court chemin étroit est couvert dans la capitale **Antananarivo**.  
-<img src="src/mg003.jpg" width="640">*[Google](https://earth.google.com/web)*
-<img src="src/mg004 .jpg" width="640">*[Geoguessr](https://www.geoguessr.com/)*
+<img src="src/mg003.jpg" width="640">
+*[Google](https://earth.google.com/web)*
+<img src="src/mg004.jpg" width="640">
+*[Geoguessr](https://www.geoguessr.com/)*
