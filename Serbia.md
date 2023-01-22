@@ -33,7 +33,7 @@ Les plaques serbes possèdent sont blanches avec une bande bleue européenne sur
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/License_plate_of_Serbia%2C_2014.JPG/1920px-License_plate_of_Serbia%2C_2014.JPG" width="640">
 *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*  
 
-Les services de police et les pompiers ont des plaques différentes. *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*  
+Les services de police et les pompiers ont des plaques différentes.  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Police_license_plate_from_Serbia.jpg" width="640">
 *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*
 <img src="src/rs004.jpg" width="640">
