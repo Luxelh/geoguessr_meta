@@ -72,7 +72,7 @@ Lithuania | --- | .lt |
 [Luxembourg](Luxembourg.md) | Luxembourg | .lu |
 Mali* | --- | .ml |
 Macau | --- | .mo |
-Madagascar | --- | .mg |
+[Madagascar](Madagascar.md) | Madagascar | .mg |
 Malaysia | --- | .my |
 [Malta](Malta.md) | Malte | .mt |
 Martinique | --- | .mq |
