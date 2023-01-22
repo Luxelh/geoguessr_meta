@@ -23,6 +23,7 @@ La couverture est centrée sur les villes et villages ainsi que les principaux a
 ## Google car
 
 La plupart du temps, aucun élément n'est visible, néanmoins un arrière blanc où son antenne peut être visibles sur certaines grandes routes ou dans une petite partie de Belgrade. *[somerandomstuff1](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/#serbia)*  
+<img src="src/rs005.jpg" width="640">
 <img src="src/rs003.jpg" width="640">
 *[Google](https://earth.google.com/web)*
 
@@ -31,6 +32,9 @@ La plupart du temps, aucun élément n'est visible, néanmoins un arrière blanc
 Les plaques serbes possèdent sont blanches avec une bande bleue européenne sur la gauche de la plaque. *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*     
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/License_plate_of_Serbia%2C_2014.JPG/1920px-License_plate_of_Serbia%2C_2014.JPG" width="640">
 *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*  
+
 Les services de police et les pompiers ont des plaques différentes. *[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Police_license_plate_from_Serbia.jpg" width="640">
+*[Wikipedia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Serbia)*
 <img src="src/rs004.jpg" width="640">
 *[Google](https://earth.google.com/web)*
