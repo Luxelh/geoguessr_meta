@@ -44,7 +44,7 @@ Les services de police et les pompiers ont des plaques différentes.
 
 ### Délimitateurs
 
-Deux types de délimitateurs peuvent être vus, ceux-ci sont les plus courants.  
+Deux types de délimitateurs peuvent être vus, ceux-ci sont les plus courants. Les bandes réfléchissantes peuvent aussi être centrées verticalement.    
 <img src="src/rs007.jpg" width="640">
 *[Google](https://earth.google.com/web)*
 
