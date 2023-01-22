@@ -103,7 +103,7 @@ Russia | --- | .ru |
 Saint Pierre and Miquelon | --- | .pm |
 San Marino | --- | .sm |
 [Senegal](Senegal.md) | Sénégal | .sn |
-Serbia | --- | .rs |
+[Serbia](Serbia.md) | Serbie | .rs |
 Singapore | --- | .sg |
 Slovakia | --- | .sk |
 Slovenia | --- | .si |
