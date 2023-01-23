@@ -1,5 +1,9 @@
 # Kenya
 
+EN | FR | Swahili | Contry top-level domain | Driving side
+--- | --- | --- | --- | ---
+Kenya | Kenya | Kenya  | .ke | Left
+
 ## Drapeau
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1280px-Flag_of_Kenya.svg.png" width="640">*source: [Wikipedia](https://en.wikipedia.org/wiki/Kenya)*
