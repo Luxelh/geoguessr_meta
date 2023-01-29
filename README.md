@@ -46,7 +46,7 @@ Germany | --- | .de |
 Gibraltar | --- | .gi |
 Greece | --- | .gr |
 Greenland | --- | .gl |
-Guatemala | --- | .gt |
+[Guatemala](Guatemala.md) | Guatemala | .gt |
 Hong Kong | --- | .hk |
 Hungary | --- | .hu |
 [Iceland](Iceland.md) | Islande | .is |
