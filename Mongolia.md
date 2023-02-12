@@ -11,9 +11,7 @@ Mongolia | Mongolie | ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ  / Монгол Улс | .
 ## Google car
 
 Un pick-up avec des barres de toit est toujours visible, on peut aussi voir un snooker ou des paquetages.  
-![Mongolia - Google car 1](src/mn001.jpg)
-*[Google](https://earth.google.com/web)*
-![Mongolia - Google car 2](src/mn002.jpg)
-*[Google](https://earth.google.com/web)*
-![Mongolia - Google car 3](src/mn003.jpg)
+<img src="src/mn001.jpg" width="640">
+<img src="src/mn002.jpg" width="640">
+<img src="src/mn003.jpg" width="640">
 *[Google](https://earth.google.com/web)*
