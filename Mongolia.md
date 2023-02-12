@@ -1,6 +1,6 @@
 # Mongolia
 
-EN | FR | Spanish | Contry top-level domain | Driving side
+EN | FR | Mongolian | Contry top-level domain | Driving side
 --- | --- | --- | --- | ---
 Mongolia | Mongolie | ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ  / Монгол Улс | .mn | Right
 
