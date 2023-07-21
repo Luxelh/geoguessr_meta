@@ -25,17 +25,3 @@ La couverture est importante sur la partie Ouest du pays, et notamment autour de
 Un arrière blanc est toujours visible.
 <img src="src/ls003.jpg" width="640">
 *source: [Geoguessr](https://www.geoguessr.com/)*
-
-
-
-
-
-
-
-
-
-## Google car
-
-White car very often visible.  
-![Lesotho - Google car](src/ls001.jpg)
-*source: [Google](https://earth.google.com/web)*
